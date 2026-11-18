@@ -1,0 +1,15 @@
+{
+  "iitian_vibes_internships.json": "2 India rows + 2 non-India rows; source had 5 total, 1 India",
+  "iitian_vibes_closed.json": "full closed list, 1 rows",
+  "simplify_listings.json": "7 India rows + 2 US rows; source had 17657 total",
+  "surya_domestic_india.md": "full domestic India markdown page",
+  "surya_listings.json": "7 India rows + 2 US rows; source had 18289 total",
+  "nimrah_internships.json": "verbatim empty response (count=0)",
+  "adithya_internships.json": "verbatim 1-row sample",
+  "sarthzk_listings.json": "20 India rows + 2 others; source had 190 total",
+  "speedyapply_2027-SWE-College-Jobs_INTERN_INTL.md": "17 header/India lines from INTERN_INTL.md",
+  "speedyapply_2027-SWE-College-Jobs_NEW_GRAD_INTL.md": "123 header/India lines from NEW_GRAD_INTL.md",
+  "speedyapply_2027-AI-College-Jobs_INTERN_INTL.md": "17 header/India lines from INTERN_INTL.md",
+  "speedyapply_2027-AI-College-Jobs_NEW_GRAD_INTL.md": "74 header/India lines from NEW_GRAD_INTL.md",
+  "vanshb03_listings.json": "first 6 active rows of vanshb03/Summer2027-Internships; source had 3939 total, 0 India"
+}

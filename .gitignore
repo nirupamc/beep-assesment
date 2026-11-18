@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+web/dist/
+
+# Secrets — keys come from env or GitHub Actions secrets only
+.env
+.env.*
+!.env.example

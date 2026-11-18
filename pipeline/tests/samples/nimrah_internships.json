@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-17T12:38:46.372561+00:00",
+  "count": 0,
+  "internships": [],
+  "errors": [
+    "Two Sigma: HTTP 404 (check token 'twosigma' in companies.json)",
+    "Hudson River Trading: HTTP 404 (check token 'hudsonrivertrading' in companies.json)",
+    "DRW: HTTP 404 (check token 'drw' in companies.json)",
+    "Razorpay: HTTP 404 (check token 'razorpay' in companies.json)",
+    "Postman: HTTP 404 (check token 'postman' in companies.json)",
+    "Chargebee: HTTP 404 (check token 'chargebee' in companies.json)",
+    "Rippling: HTTP 404 (check token 'rippling' in companies.json)"
+  ]
+}

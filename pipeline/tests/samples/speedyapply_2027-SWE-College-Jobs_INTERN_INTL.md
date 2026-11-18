@@ -1,0 +1,17 @@
+| Company | Position | Location | Posting | Age |
+|---|---|---|---|---|
+| <a href="https://www.google.com"><strong>Google</strong></a> | Software Engineering PhD Intern - Summer 2027 | Bengaluru, India +2 | <a href="https://www.google.com/about/careers/applications/jobs/results/109976286780105414"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 71d |
+| Company | Position | Location | Posting | Age |
+|---|---|---|---|---|
+| Company | Position | Location | Posting | Age |
+|---|---|---|---|---|
+| <a href="https://www.thalesgroup.com"><strong>Thales</strong></a> | Embedded Software Intern | Bengaluru, India | <a href="https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Embedded-Software-Intern_R0347902"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
+| <a href="https://www.thalesgroup.com"><strong>Thales</strong></a> | Software Intern | Bengaluru, India | <a href="https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Software-Intern_R0347867"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
+| <a href="https://www.revvity.com"><strong>Revvity</strong></a> | Intern - Software Developer | Mumbai, India | <a href="https://revvity.wd103.myworkdayjobs.com/en-US/external/job/Mumbai/Intern---Software-Developer_JR-045916"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 12d |
+| <a href="https://gxbank.my/"><strong>GXS</strong></a> | Software Engineering Internship | Bengaluru, India | <a href="https://gxs.wd3.myworkdayjobs.com/en-US/grxst/job/Bangalore-India/Software-Engineering-Internship_R-2026-10-101982"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 35d |
+| <a href="https://www.hackerrank.com"><strong>HackerRank</strong></a> | Software Development Engineer Intern | Bengaluru, India | <a href="https://job-boards.greenhouse.io/hackerrank/jobs/8229735"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 47d |
+| <a href="http://merklescience.com"><strong>Merkle Science</strong></a> | Software Engineer - Intern - Frontend | Bengaluru, India | <a href="https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 50d |
+| <a href="https://hevodata.com"><strong>Hevo Data</strong></a> | Associate Software Development Engineer - SDE Intern | Bengaluru, India | <a href="https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 57d |
+| <a href="https://www.rubrik.com"><strong>rubrik</strong></a> | Software Engineer - CPD - Winter Intern | Bengaluru, India | <a href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 72d |
+| <a href="https://www.enterpret.com"><strong>Enterpret</strong></a> | Backend - Onsite Software Engineering Intern | Bengaluru, India | <a href="https://job-boards.greenhouse.io/enterpret/jobs/7847134003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 99d |
+| <a href="http://merklescience.com"><strong>Merkle Science</strong></a> | Software Engineer- Intern- Backend | Bengaluru, India | <a href="https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 102d |

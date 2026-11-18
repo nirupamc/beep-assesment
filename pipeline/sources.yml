@@ -1,0 +1,189 @@
+# india-fresher-tech-radar — source registry
+#
+# This file is the single source of truth for every repository we read, its
+# license, and its attribution. The site's Sources page is generated from the
+# `enabled: true` entries, so anything shown there is accurate by construction.
+#
+# Rules baked into this file:
+#   * We never fetch job sites or company career pages. Every `repo` below is a
+#     public GitHub repository whose owner publishes the data file we read.
+#   * A disabled source is never fetched by build.py or coverage.py. Its adapter
+#     still exists and is unit-tested against a saved sample, so enabling it
+#     later is a config change, not a rewrite.
+#   * `files` lists only paths verified to exist in the repo tree. Adapters fail
+#     loudly if a file disappears rather than guessing a replacement.
+
+sources:
+  - id: iitian_vibes
+    name: IITian Vibes
+    adapter: iitian_vibes
+    repo: iitian-vibes/India-Tech-Internships
+    branch: main
+    enabled: true
+    files:
+      - data/internships.json
+      - data/closed.json
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
+    license_note: >-
+      data/ is CC BY 4.0 per LICENSE-DATA (code is MIT). Attribution is required
+      and changes must be indicated.
+    attribution: "IITian Vibes — https://iitianvibes.com"
+    notes: >-
+      Includes non-India rows; the India filter drops those. closed.json holds
+      postings the maintainer retired and is used only to avoid resurrecting them.
+
+  - id: simplify
+    name: SimplifyJobs
+    adapter: simplify
+    repo: SimplifyJobs/Summer2027-Internships
+    branch: dev
+    enabled: true
+    files:
+      - .github/scripts/listings.json
+    license: No license file (public data, used in good faith)
+    license_url: https://github.com/SimplifyJobs/Summer2027-Internships
+    attribution: "SimplifyJobs — https://github.com/SimplifyJobs/Summer2027-Internships"
+    notes: >-
+      Roughly 17k listings, almost entirely US. Only India-located rows are kept.
+      `active: false` rows are treated as closed by the source itself.
+
+  - id: surya
+    name: Surya's 2027 Internship Tracker
+    adapter: surya
+    repo: SuryaHarikrishnan/2027-internship-tracker
+    branch: master
+    enabled: true
+    files:
+      - listings/domestic-india.md
+      - data/listings.json
+    license: MIT (code) — data is third-party, see ATTRIBUTION.md
+    license_url: https://github.com/SuryaHarikrishnan/2027-internship-tracker/blob/master/ATTRIBUTION.md
+    attribution: "Surya Harikrishnan — https://github.com/SuryaHarikrishnan/2027-internship-tracker"
+    notes: >-
+      listings/domestic-india.md is a small India-only table. data/listings.json
+      is a large international aggregate; only India-located rows are kept.
+
+  - id: nimrah
+    name: India Internships Tracker (Nimrah)
+    adapter: nimrah
+    repo: Nimrah456/india-internships-tracker
+    branch: main
+    enabled: true
+    files:
+      - data/internships.json
+    license: MIT
+    license_url: https://github.com/Nimrah456/india-internships-tracker/blob/main/LICENSE
+    attribution: "Nimrah — https://github.com/Nimrah456/india-internships-tracker"
+    notes: >-
+      Very few rows. Upstream boards frequently 404, so an empty `internships`
+      array is a normal, valid response and must not be treated as a failure.
+
+  - id: adithya
+    name: Automated Internship Tracker (adithya012)
+    adapter: adithya
+    repo: adithya012/automated-internship-tracker
+    branch: main
+    enabled: false
+    files:
+      - data/internships.json
+    license: MIT (code) — data terms separate
+    license_url: https://github.com/adithya012/automated-internship-tracker/blob/main/LICENSE
+    attribution: "adithya012 — https://github.com/adithya012/automated-internship-tracker"
+    notes: >-
+      Disabled pending license review of the data. Output file inspected and
+      sample saved; code is MIT but the data terms are not stated separately.
+
+  - id: speedyapply
+    name: speedyapply College Jobs
+    adapter: speedyapply
+    repos:
+      - repo: speedyapply/2027-SWE-College-Jobs
+        branch: main
+        files: [INTERN_INTL.md, NEW_GRAD_INTL.md]
+      - repo: speedyapply/2027-AI-College-Jobs
+        branch: main
+        files: [INTERN_INTL.md, NEW_GRAD_INTL.md]
+    enabled: true
+    license: No license file (public data, enabled with owner's approval)
+    license_url: https://github.com/speedyapply/2027-SWE-College-Jobs
+    attribution: "speedyapply — https://github.com/speedyapply"
+    notes: >-
+      Markdown tables, mostly US. Only international/India rows are relevant.
+      No license file is published; enabled on 2026-11-18 on the project owner's
+      explicit instruction, with attribution shown on the Sources page.
+
+  - id: sarthzk
+    name: Sarthzk Internship Tracker
+    adapter: sarthzk
+    repo: Sarthzk/internship-tracker
+    branch: main
+    enabled: true
+    files:
+      - data/listings.json
+    license: ALL RIGHTS RESERVED (used with permission)
+    license_url: https://github.com/Sarthzk/internship-tracker/blob/main/LICENSE
+    attribution: "Sarthzk — https://github.com/Sarthzk/internship-tracker"
+    notes: >-
+      Enabled 2026-11-18 after the project owner confirmed written permission
+      from the maintainer. Rows the source marks `status: closed` are dropped.
+      Keep this note with the permission record; remove the source if that
+      permission is withdrawn.
+
+  - id: vanshb03_internships
+    name: vansh Summer 2027 Internships
+    adapter: vanshb03
+    repo: vanshb03/Summer2027-Internships
+    branch: dev
+    enabled: true
+    files:
+      - .github/scripts/listings.json
+    license: MIT
+    license_url: https://github.com/vanshb03/Summer2027-Internships/blob/dev/LICENSE
+    attribution: "vansh — https://github.com/vanshb03/Summer2027-Internships"
+    notes: >-
+      Upstream of the Simplify feed, so many rows duplicate it; de-duplication
+      handles the overlap. Same schema as simplify. Currently returns no India
+      rows, which is valid output, not a failure.
+
+  - id: vanshb03_newgrad
+    name: vansh New Grad 2027
+    adapter: vanshb03
+    repo: vanshb03/New-Grad-2027
+    branch: dev
+    enabled: true
+    files:
+      - .github/scripts/listings.json
+    license: MIT
+    license_url: https://github.com/vanshb03/New-Grad-2027/blob/dev/LICENSE
+    attribution: "vansh — https://github.com/vanshb03/New-Grad-2027"
+    notes: >-
+      New-grad companion to vanshb03_internships; same schema. Mostly US, so the
+      India filter keeps only a handful (none at the time of writing).
+
+# Repository we deliberately do not read: VikashPR/Global-Internship-List is not
+# a job feed.
+
+# India filter vocabulary. A row qualifies if any location matches one of these.
+india:
+  cities:
+    - Bengaluru
+    - Bangalore
+    - Hyderabad
+    - Pune
+    - Mumbai
+    - Delhi
+    - New Delhi
+    - Gurugram
+    - Gurgaon
+    - Noida
+    - Chennai
+    - Kolkata
+    - Ahmedabad
+  tokens:
+    - India
+  remote_tokens:
+    - Remote India
+    - Remote in India
+    - Remote - India
+    - India Remote

@@ -1,0 +1,5 @@
+requests>=2.31
+pyyaml>=6.0
+pydantic>=2.6
+pytest>=8.0
+google-genai>=1.0

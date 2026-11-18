@@ -1,0 +1,85 @@
+{
+ "last_refreshed": "2026-11-18T11:23:02.321161Z",
+ "sources": [
+  {
+   "id": "iitian_vibes",
+   "name": "IITian Vibes",
+   "repo": "iitian-vibes/India-Tech-Internships",
+   "url": "https://github.com/iitian-vibes/India-Tech-Internships",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "IITian Vibes — https://iitianvibes.com",
+   "notes": "Includes non-India rows; the India filter drops those. closed.json holds postings the maintainer retired and is used only to avoid resurrecting them."
+  },
+  {
+   "id": "simplify",
+   "name": "SimplifyJobs",
+   "repo": "SimplifyJobs/Summer2027-Internships",
+   "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+   "license": "No license file (public data, used in good faith)",
+   "license_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+   "attribution": "SimplifyJobs — https://github.com/SimplifyJobs/Summer2027-Internships",
+   "notes": "Roughly 17k listings, almost entirely US. Only India-located rows are kept. `active: false` rows are treated as closed by the source itself."
+  },
+  {
+   "id": "surya",
+   "name": "Surya's 2027 Internship Tracker",
+   "repo": "SuryaHarikrishnan/2027-internship-tracker",
+   "url": "https://github.com/SuryaHarikrishnan/2027-internship-tracker",
+   "license": "MIT (code) — data is third-party, see ATTRIBUTION.md",
+   "license_url": "https://github.com/SuryaHarikrishnan/2027-internship-tracker/blob/master/ATTRIBUTION.md",
+   "attribution": "Surya Harikrishnan — https://github.com/SuryaHarikrishnan/2027-internship-tracker",
+   "notes": "listings/domestic-india.md is a small India-only table. data/listings.json is a large international aggregate; only India-located rows are kept."
+  },
+  {
+   "id": "nimrah",
+   "name": "India Internships Tracker (Nimrah)",
+   "repo": "Nimrah456/india-internships-tracker",
+   "url": "https://github.com/Nimrah456/india-internships-tracker",
+   "license": "MIT",
+   "license_url": "https://github.com/Nimrah456/india-internships-tracker/blob/main/LICENSE",
+   "attribution": "Nimrah — https://github.com/Nimrah456/india-internships-tracker",
+   "notes": "Very few rows. Upstream boards frequently 404, so an empty `internships` array is a normal, valid response and must not be treated as a failure."
+  },
+  {
+   "id": "speedyapply",
+   "name": "speedyapply College Jobs",
+   "repo": "speedyapply/2027-SWE-College-Jobs, speedyapply/2027-AI-College-Jobs",
+   "url": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+   "license": "No license file (public data, enabled with owner's approval)",
+   "license_url": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+   "attribution": "speedyapply — https://github.com/speedyapply",
+   "notes": "Markdown tables, mostly US. Only international/India rows are relevant. No license file is published; enabled on 2026-11-18 on the project owner's explicit instruction, with attribution shown on the Sources page."
+  },
+  {
+   "id": "sarthzk",
+   "name": "Sarthzk Internship Tracker",
+   "repo": "Sarthzk/internship-tracker",
+   "url": "https://github.com/Sarthzk/internship-tracker",
+   "license": "ALL RIGHTS RESERVED (used with permission)",
+   "license_url": "https://github.com/Sarthzk/internship-tracker/blob/main/LICENSE",
+   "attribution": "Sarthzk — https://github.com/Sarthzk/internship-tracker",
+   "notes": "Enabled 2026-11-18 after the project owner confirmed written permission from the maintainer. Rows the source marks `status: closed` are dropped. Keep this note with the permission record; remove the source if that permission is withdrawn."
+  },
+  {
+   "id": "vanshb03_internships",
+   "name": "vansh Summer 2027 Internships",
+   "repo": "vanshb03/Summer2027-Internships",
+   "url": "https://github.com/vanshb03/Summer2027-Internships",
+   "license": "MIT",
+   "license_url": "https://github.com/vanshb03/Summer2027-Internships/blob/dev/LICENSE",
+   "attribution": "vansh — https://github.com/vanshb03/Summer2027-Internships",
+   "notes": "Upstream of the Simplify feed, so many rows duplicate it; de-duplication handles the overlap. Same schema as simplify. Currently returns no India rows, which is valid output, not a failure."
+  },
+  {
+   "id": "vanshb03_newgrad",
+   "name": "vansh New Grad 2027",
+   "repo": "vanshb03/New-Grad-2027",
+   "url": "https://github.com/vanshb03/New-Grad-2027",
+   "license": "MIT",
+   "license_url": "https://github.com/vanshb03/New-Grad-2027/blob/dev/LICENSE",
+   "attribution": "vansh — https://github.com/vanshb03/New-Grad-2027",
+   "notes": "New-grad companion to vanshb03_internships; same schema. Mostly US, so the India filter keeps only a handful (none at the time of writing)."
+  }
+ ]
+}
