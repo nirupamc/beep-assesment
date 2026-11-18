@@ -38,7 +38,9 @@ jobs:
         id: build
         continue-on-error: true
         env:
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
@@ -47,6 +49,7 @@ jobs:
       # state.json carries first_seen/closed_at across runs, and the tag cache
       # keeps repeat runs at zero LLM calls, so both are committed too.
       - name: Commit refreshed data
+        if: steps.build.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,7 +60,11 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh listings $(date -u +%Y-%m-%d)"
-          git push
+          for i in 1 2; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed; retrying..."
+            sleep 5
+          done
 
       - name: Fail if the refresh aborted
         if: steps.build.outcome == 'failure'

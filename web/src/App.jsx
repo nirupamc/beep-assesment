@@ -10,7 +10,20 @@ const CITY_ORDER = [
   "Mumbai",
   "Chennai",
   "Kolkata",
+  "Ahmedabad",
+  "Jaipur",
+  "Kochi",
+  "Chandigarh",
+  "Coimbatore",
+  "Indore",
+  "Lucknow",
+  "Bhubaneswar",
+  "Surat",
+  "Nagpur",
+  "Vadodara",
+  "Thiruvananthapuram",
   "Remote (India)",
+  "Other India",
   "Multiple / Pan-India",
 ];
 const ROLE_ORDER = [
@@ -24,7 +37,7 @@ const ROLE_ORDER = [
   "Product / Design",
   "Other",
 ];
-const TYPE_ORDER = ["Internship", "Fresher / New Grad"];
+const TYPE_ORDER = ["Internship", "Fresher / New Grad", "Experienced", "Unspecified"];
 
 function formatIST(iso) {
   if (!iso) return "unknown";

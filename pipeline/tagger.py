@@ -37,20 +37,36 @@ CITIES = [
     "Mumbai",
     "Chennai",
     "Kolkata",
+    "Ahmedabad",
+    "Jaipur",
+    "Kochi",
+    "Chandigarh",
+    "Coimbatore",
+    "Indore",
+    "Lucknow",
+    "Bhubaneswar",
+    "Surat",
+    "Nagpur",
+    "Vadodara",
+    "Thiruvananthapuram",
     "Remote (India)",
+    "Other India",
     "Multiple / Pan-India",
 ]
 
-EXPERIENCE_TYPES = ["Internship", "Fresher / New Grad"]
+EXPERIENCE_TYPES = ["Internship", "Fresher / New Grad", "Experienced", "Unspecified"]
 
 FALLBACK = {
     "role_category": "Other",
     "city": "Multiple / Pan-India",
-    "experience_type": "Fresher / New Grad",
+    "experience_type": "Unspecified",
 }
 
 CACHE_PATH = Path(__file__).resolve().parent / "data" / "tags_cache.json"
 BATCH_SIZE = 18
+
+# Bump whenever rule logic changes so stale cache entries are ignored.
+RULES_VERSION = 2
 
 # --- rules -------------------------------------------------------------
 
@@ -61,7 +77,7 @@ ROLE_RULES: list[tuple[str, re.Pattern[str]]] = [
     ("Data Science & Analytics", re.compile(
         r"\b(data|analytics|business[- ]intelligence|bi|insights|statistic\w*)\b.*"
         r"\b(analyst|scientist|engineer|intern|associate|consultant)\b|"
-        r"\b(analyst|analytics)\b", re.I)),
+        r"(?<!software )(?<!systems )\banalyst\b|\banalytics\b", re.I)),
     ("Hardware / Embedded", re.compile(
         r"\b(embedded|firmware|hardware|vlsi|asic|fpga|pcb|rf|silicon|chip|electrical)\b", re.I)),
     ("DevOps / Cloud", re.compile(
@@ -89,6 +105,18 @@ CITY_RULES: list[tuple[str, re.Pattern[str]]] = [
     ("Mumbai", re.compile(r"\b(mumbai|navi mumbai|thane)\b", re.I)),
     ("Chennai", re.compile(r"\bchennai\b", re.I)),
     ("Kolkata", re.compile(r"\bkolkata\b", re.I)),
+    ("Ahmedabad", re.compile(r"\bahmedabad\b", re.I)),
+    ("Jaipur", re.compile(r"\bjaipur\b", re.I)),
+    ("Kochi", re.compile(r"\b(kochi|cochin)\b", re.I)),
+    ("Chandigarh", re.compile(r"\bchandigarh\b", re.I)),
+    ("Coimbatore", re.compile(r"\bcoimbatore\b", re.I)),
+    ("Indore", re.compile(r"\bindore\b", re.I)),
+    ("Lucknow", re.compile(r"\blucknow\b", re.I)),
+    ("Bhubaneswar", re.compile(r"\bbhubaneswar\b", re.I)),
+    ("Surat", re.compile(r"\bsurat\b", re.I)),
+    ("Nagpur", re.compile(r"\bnagpur\b", re.I)),
+    ("Vadodara", re.compile(r"\b(vadodara|baroda)\b", re.I)),
+    ("Thiruvananthapuram", re.compile(r"\b(thiruvananthapuram|trivandrum)\b", re.I)),
     ("Remote (India)", re.compile(r"\bremote\b.*\bindia\b|\bindia\b.*\bremote\b", re.I)),
 ]
 
@@ -96,6 +124,27 @@ INTERN_RE = re.compile(r"\b(intern|internship|interns)\b", re.I)
 NEWGRAD_RE = re.compile(
     r"\b(new grad|new-grad|graduate|fresher|entry[- ]level|junior|trainee|apprentice|"
     r"associate software|campus)\b", re.I)
+YEARS_RE = re.compile(
+    r"\b(\d+)\s*\+\s*years?\b|"
+    r"\b(\d+)\s*(?:to|-)\s*(\d+)\s*years?\b|"
+    r"\b(\d+)\s*years?\b", re.I)
+
+
+def _min_years(title: str) -> int | None:
+    found: list[int] = []
+    for m in YEARS_RE.finditer(title):
+        for g in m.groups():
+            if g is not None:
+                found.append(int(g))
+                break
+    # take the smallest leading number across all matches
+    nums = []
+    for m in YEARS_RE.finditer(title):
+        for g in m.groups():
+            if g is not None:
+                nums.append(int(g))
+                break
+    return min(nums) if nums else None
 
 
 def role_from_rules(title: str) -> str | None:
@@ -116,7 +165,7 @@ def city_from_rules(location: str) -> str | None:
     if "Remote (India)" in hits:
         return "Remote (India)"
     if re.search(r"\bindia\b|\bpan[- ]india\b|\bmultiple\b", location, re.I):
-        return "Multiple / Pan-India"
+        return "Other India"
     return None
 
 
@@ -125,6 +174,9 @@ def experience_from_rules(title: str) -> str | None:
         return "Internship"
     if NEWGRAD_RE.search(title):
         return "Fresher / New Grad"
+    yrs = _min_years(title)
+    if yrs is not None and yrs >= 1:
+        return "Experienced"
     return None
 
 
@@ -142,11 +194,13 @@ def tag_from_rules(title: str, location: str) -> dict:
 # --- cache -------------------------------------------------------------
 
 
-def cache_key(job_id_value: str, title: str, location: str) -> str:
+def cache_key(job_id_value: str, title: str, location: str,
+              rules_version: int | None = None) -> str:
+    version = RULES_VERSION if rules_version is None else rules_version
     digest = hashlib.sha256(
-        f"{title.strip().lower()}|{location.strip().lower()}".encode()
+        f"{version}|{title.strip().lower()}|{location.strip().lower()}".encode()
     ).hexdigest()[:16]
-    return f"{job_id_value}:{digest}"
+    return f"{job_id_value}:{digest}:{version}"
 
 
 def load_cache(path: Path = CACHE_PATH) -> dict:
@@ -176,8 +230,9 @@ def _prompt(rows: list[dict]) -> str:
         f"role_category must be one of: {json.dumps(ROLE_CATEGORIES)}\n"
         f"city must be one of: {json.dumps(CITIES)}\n"
         "Choose the city only from the location text. If several Indian cities "
-        "appear, use 'Multiple / Pan-India'. If it is India but no city is "
-        "named, use 'Multiple / Pan-India'.\n"
+        "appear, use 'Multiple / Pan-India'. If a single Indian city is not in "
+        "the list, use 'Other India'. If it is India but no city is named, use "
+        "'Other India'.\n"
         'Reply with JSON only: {"results":[{"index":0,"role_category":"...",'
         '"city":"..."}]} for every input index.\n\n'
         f"Listings:\n{json.dumps(payload, ensure_ascii=False)}"
@@ -200,8 +255,43 @@ def _validate(raw: str, expected: int) -> dict[int, dict]:
     return good
 
 
+def _openai_compatible_complete(prompt: str) -> str:
+    """OpenAI-compatible chat-completions call. Imported lazily for tests."""
+    from openai import OpenAI
+
+    model = os.environ.get("LLM_MODEL")
+    api_key = os.environ.get("LLM_API_KEY")
+    base_url = os.environ.get("LLM_BASE_URL")
+    if not model or not api_key:
+        raise RuntimeError("LLM_MODEL and LLM_API_KEY must be set to classify new jobs")
+
+    client = OpenAI(api_key=api_key, base_url=base_url)
+    kwargs = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0,
+    }
+    try:
+        response = client.chat.completions.create(
+            response_format={"type": "json_object"}, **kwargs)
+    except Exception as exc:
+        if "response_format" not in str(exc).lower():
+            raise
+        # Some OpenAI-compatible endpoints reject response_format; retry once
+        # without it and rely on the existing JSON/enum validation.
+        response = client.chat.completions.create(**kwargs)
+    choice = response.choices[0].message.content if response.choices else None
+    return choice or ""
+
+
 def _default_complete(prompt: str) -> str:
     """Real LLM call. Imported lazily so tests never need the SDK or a key."""
+    provider = (os.environ.get("LLM_PROVIDER") or "google").strip().lower()
+    if provider == "openai-compatible":
+        return _openai_compatible_complete(prompt)
+    if provider not in ("google", ""):
+        raise RuntimeError(f"Unsupported LLM_PROVIDER: {provider}")
+
     from google import genai
     from google.genai import types
 
@@ -267,12 +357,21 @@ def tag_records(
     for i, rec in enumerate(records):
         rules = tag_from_rules(rec.title, rec.location_raw)
         key = cache_key(make_id(rec), rec.title, rec.location_raw)
-        if key in cache:
-            tags.append({**rules, **cache[key]})
+        cached = cache.get(key, {})
+        if cached:
+            # Rules always win for anything they can resolve; the cache may
+            # only supply LLM-resolved role/city for unresolved fields.
+            tag = dict(rules)
+            if rules["role_category"] is None and "role_category" in cached:
+                tag["role_category"] = cached["role_category"]
+            if rules["city"] is None and "city" in cached:
+                tag["city"] = cached["city"]
+            tag["experience_type"] = rules["experience_type"]
+            tags.append(tag)
         elif rules["role_category"] is not None and rules["city"] is not None:
             tags.append(dict(rules))
-            cache[key] = {k: rules[k] for k in
-                          ("role_category", "city", "experience_type")}
+            # Rules are deterministic: do not cache them. Cache is reserved
+            # for LLM-resolved role/city only.
         else:
             tags.append(None)
             pending.append((i, {"title": rec.title, "company": rec.company,
@@ -286,13 +385,25 @@ def tag_records(
             rules = tag_from_rules(row["title"], row["location_raw"])
             answer = resolved.get(local, {})
             tag = {
-                "role_category": answer.get("role_category", FALLBACK["role_category"]),
-                "city": answer.get("city", FALLBACK["city"]),
+                "role_category": (rules["role_category"] if rules["role_category"] is not None
+                                  else answer.get("role_category", FALLBACK["role_category"])),
+                "city": (rules["city"] if rules["city"] is not None
+                         else answer.get("city", FALLBACK["city"])),
                 "experience_type": rules["experience_type"],
             }
             tags[index] = tag
-            if answer or not hard_fail:
-                cache[row["key"]] = tag
+            # Cache only the fields the LLM actually had to resolve.
+            cache_entry = {}
+            if rules["role_category"] is None:
+                cache_entry["role_category"] = tag["role_category"]
+            if rules["city"] is None:
+                cache_entry["city"] = tag["city"]
+            if cache_entry and (answer or not hard_fail):
+                cache[row["key"]] = cache_entry
+
+    save_cache(cache, cache_path)
+    return [t or dict(FALLBACK) for t in tags], calls[0]
+
 
     save_cache(cache, cache_path)
     return [t or dict(FALLBACK) for t in tags], calls[0]
