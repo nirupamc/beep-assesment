@@ -1,5 +1,3 @@
-// Set VITE_GITHUB_REPO at build time (e.g. "you/india-fresher-tech-radar") so
-// "Report a problem" opens an issue in this project rather than nowhere.
 const REPO = import.meta.env.VITE_GITHUB_REPO || "your-username/india-fresher-tech-radar";
 
 function reportUrl(job) {
@@ -15,45 +13,80 @@ function reportUrl(job) {
       "What is wrong? (expired / wrong location / not a fresher role / other)",
     ].join("\n"),
   );
-  return `${REPO}/issues/new?title=${title}&body=${body}`;
+  return `https://github.com/${REPO}/issues/new?title=${title}&body=${body}`;
 }
 
-export default function JobCard({ job }) {
+function formatDate(iso) {
+  if (!iso) return null;
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return null;
+  return new Intl.DateTimeFormat("en-IN", {
+    timeZone: "Asia/Kolkata",
+    dateStyle: "medium",
+  }).format(date);
+}
+
+function typeLabel(type) {
+  if (type === "Unspecified") return "Entry-level (unspecified)";
+  return type;
+}
+
+function Badge({ children, muted }) {
   return (
-    <article className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:shadow-md dark:border-slate-800 dark:bg-slate-900">
-      <div className="flex items-start justify-between gap-3">
-        <div className="min-w-0">
-          <h2 className="text-base font-semibold leading-snug">{job.title}</h2>
-          <p className="mt-0.5 truncate text-sm font-medium text-indigo-600 dark:text-indigo-400">
-            {job.company}
-          </p>
-        </div>
-        <span className="shrink-0 rounded-full bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300">
-          {job.experience_type}
-        </span>
+    <span
+      className={
+        "inline-flex items-center rounded border px-2 py-0.5 text-xs " +
+        (muted
+          ? "border-border bg-subtle text-muted"
+          : "border-border bg-subtle text-text")
+      }
+    >
+      {children}
+    </span>
+  );
+}
+
+export default function JobCard({ job, sources }) {
+  const sourceNames = (job.sources || [])
+    .map((id) => (sources || []).find((s) => s.id === id)?.name || id)
+    .filter(Boolean)
+    .join(", ");
+
+  const firstSeen = formatDate(job.first_seen);
+  const posted = job.posted_at ? formatDate(job.posted_at) : null;
+
+  return (
+    <article className="flex flex-col gap-3 rounded-md border border-border bg-surface p-4">
+      <div className="min-w-0">
+        <p className="text-sm font-bold text-text">{job.company}</p>
+        <h2 className="mt-0.5 text-base font-medium leading-snug text-text">
+          {job.title}
+        </h2>
       </div>
 
-      <p className="text-sm text-slate-600 dark:text-slate-400">
-        {job.city}
-        <span className="text-slate-400 dark:text-slate-500">
-          {" · "}
-          {job.location_raw}
-        </span>
+      <div className="flex flex-wrap gap-1.5">
+        <Badge>{job.city}</Badge>
+        <Badge>{job.role_category}</Badge>
+        <Badge muted={job.experience_type === "Experienced"}>
+          {typeLabel(job.experience_type)}
+        </Badge>
+      </div>
+
+      <p className="text-xs text-muted">
+        First seen {firstSeen || "—"}
+        {posted ? ` · Posted ${posted}` : ""}
       </p>
 
-      <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
-        <span className="rounded bg-slate-100 px-1.5 py-0.5 dark:bg-slate-800">
-          {job.role_category}
-        </span>
-        {job.posted_at ? <span>Posted {job.posted_at.slice(0, 10)}</span> : null}
-      </div>
+      {sourceNames ? (
+        <p className="text-xs text-muted">Source: {sourceNames}</p>
+      ) : null}
 
       <div className="mt-auto flex items-center gap-3 pt-1">
         <a
           href={job.apply_url}
           target="_blank"
-          rel="noopener noreferrer nofollow"
-          className="rounded-lg bg-indigo-600 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
+          rel="noopener noreferrer"
+          className="inline-flex min-h-10 items-center rounded-md bg-accent px-4 text-sm font-semibold text-white hover:bg-accent-hover focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
         >
           Apply
         </a>
@@ -61,9 +94,9 @@ export default function JobCard({ job }) {
           href={reportUrl(job)}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-xs text-slate-500 underline-offset-2 hover:underline dark:text-slate-400"
+          className="text-xs text-muted underline-offset-2 hover:underline"
         >
-          Report a problem
+          Report
         </a>
       </div>
     </article>
