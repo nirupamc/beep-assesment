@@ -14,6 +14,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"060b9d78c3faa71d93dab19d9e5709ab1f42490427b0b3ac1a79a601f27ef83b:f5841aa47f9d5816": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Hardware / Embedded"
+},
 "06416c0064b39cd65206d7764c9beaf4b08d513d0b11e6c16729ab474783a45b:b66c021832e4a761": {
 "city": "Multiple / Pan-India",
 "experience_type": "Fresher / New Grad",
@@ -23,6 +28,11 @@
 "city": "Pune",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"085ff4ffcff8113ca16d0a70d170db3cfaf3596ceabdaeb448b348b4a9ed1fb7:36e0455e3ea32636": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Backend"
 },
 "08697a30ebd7b3f16f41dc1634481e809ea136fb6d6954363749f2c6a1bd9b49:cf9d51c15f897484": {
 "city": "Hyderabad",
@@ -48,6 +58,11 @@
 "city": "Bengaluru",
 "experience_type": "Internship",
 "role_category": "AI / ML"
+},
+"0bcec8df7a76f43a12333ae4fb4b82f6cad4e63120ddc93243ec90ec9b95d885:15e881df8f24c2db": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
 },
 "0c670e3de96a48c5c1ced0a164d242657d7bdc58d6d971d3cec05bdd2e9be59b:405270c690a4e31f": {
 "city": "Bengaluru",
@@ -89,6 +104,11 @@
 "experience_type": "Internship",
 "role_category": "Data Science & Analytics"
 },
+"1312457db6d639584531aadf035b3f30bda6b05811206531dc0da085c29b832c:0e5161397d2ab475": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "AI / ML"
+},
 "135b9f7d113f2df230a78a169149a0b279c7a59dba8495ef15d6321f7ec3cbee:682912d042d4b315": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
@@ -119,10 +139,20 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"179f89ea2215128ea2cdc887e5dd21557c590fd7fdea10c0165b5cafe85c8676:f5841aa47f9d5816": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Hardware / Embedded"
+},
 "1b636a939ab0c993acf10df799030daaaec15bb989cd7c3e8b36ec41ef1b39a1:118cc5e01d914446": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"1c121167baeba1426726c861dbb36e8300e5f1101a72fdf31dc714e2a3c2c0bd:792c3de3c9ef030c": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "AI / ML"
 },
 "1e7f0557d8bb1484aefd8eff038c86f656192b2d6665b7e150784aec065d9e8d:64b94f0c235fc055": {
 "city": "Bengaluru",
@@ -149,6 +179,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"246cb19dfcf85a3dec061e7e5358f8e41a778b55b5e4cb4c46e23c82e33ae21d:668b4ff62a658fbc": {
+"city": "Chennai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "24bd520fe36a3b0e5e5ac315d5f2d53807309fbf22134a900794e962b3449491:339620d378bc2b89": {
 "city": "Bengaluru",
 "experience_type": "Internship",
@@ -169,6 +204,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Hardware / Embedded"
 },
+"29d7a31ba8febe6345867d605c0c83af526b2aa55ded8287faab0f4d081b5263:e666d84578a8c32e": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Data Science & Analytics"
+},
 "2a2219c8d03a3623d171c83152f69bd25a7464f29b285aaef385425e5bf022d3:c165f41e48f812c6": {
 "city": "Bengaluru",
 "experience_type": "Internship",
@@ -179,10 +219,35 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"2ca31188abba77239753b5beedca76d0af148f8abc4ce98390efb3b73e1107b0:6574eaa5e0440727": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
+},
+"2d0a440bdd3bbb1a5fa8211ca9f167facfbf4690057a41b88da2281f42f1bac2:b3b93b3b2da8123e": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Frontend"
+},
+"2f995663102a3af8cef26f136358360706f16c5bc82900e32dc07ad9b8c450c3:d351a1403012d878": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "AI / ML"
+},
 "2fb94054d53ab0d09adbc82982168ce32dd3db54b08e75460e6240caf1e88418:b1e9386fd8069d6a": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"30f948b0ce632e61a82e3c88b56453ce13bd6cbe23451e3ea34fb84e632462b1:528421a6b5e50249": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
+"310b81684568477e63e6f2454ebfeb343e643f90f58c9ca22065a64e21550e3a:43cd78cbf58cad47": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Backend"
 },
 "32601704119fa739e309400205b6e784e7b867d1e06070105696d81be880fc3d:ff6131e8f99da9d9": {
 "city": "Pune",
@@ -204,6 +269,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Frontend"
 },
+"3501c64c2cf02c3209cb1a517b42d5fd7f14b72591c385b37c3f1e8806097672:616b0c14d16aa8a4": {
+"city": "Mumbai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Frontend"
+},
 "3502a177e67d0adabfecc8ea05d094fbda109b9fae9c932245ddad6aaec7c832:4e97cb12afffd743": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
@@ -213,6 +283,11 @@
 "city": "Pune",
 "experience_type": "Fresher / New Grad",
 "role_category": "Backend"
+},
+"3610032209af69fdfb16892d0ace53bb2c595ec66d140f83ffe411e23e08ca60:dabdefdaf04241bc": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
 },
 "36c7962e76de2ef379d1d0162bce6dccb567c067bcce0c73f3c7620aef4e099f:f8150ec8ec3a0dfc": {
 "city": "Chennai",
@@ -239,6 +314,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"3bd7800759c1b0358a8122840fb000b786f21c38df30f84fb84d876f7c5d62ec:7cca2c86c0e02c77": {
+"city": "Mumbai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Frontend"
+},
 "3bf20c6c7ffff9b5e5dee742bfb9a7dd0020de485a11b749fccb8df5ac5f3c35:4dda50d987c1f065": {
 "city": "Remote (India)",
 "experience_type": "Fresher / New Grad",
@@ -254,10 +334,25 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"3dd8c2b1a7b1fd9d937a605902d0c7af7e6c555ea2e174a2d9f8582d2ae6ee0d:75c087cc347e1b8a": {
+"city": "Pune",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
+"3dff723b73f851d352d419dae86216b649adf06c9b2ccfba9130a2e774da6936:a785c964bcbb6b0e": {
+"city": "Chennai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "3f2f74172b69915ad3b9cd713db7f0fff5e46d809350dfcea74f1dc4c783f7e4:0297a33cbf447884": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
+},
+"41d8ee761afefc2939971d33f7dea0a0e234db1674d82eff66e3ad2f8e3ffa92:fb2ef4cbdd6beaf9": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
 },
 "41f055f95897d8a956e234047d1a044e29d50c3879da3973d064014e1c2afb3c:07eb74a1efda9e2d": {
 "city": "Bengaluru",
@@ -314,6 +409,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"48769311ae0396b1f6cb3a014527870447092c44b6d0294a269b5471cab7a379:dabdefdaf04241bc": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
 "48acc7198ba108c6f147ef9cda5a7c09df16d6cf5b5a7c82d936ebeb74e8ccbb:bc18856fc2b0d6a1": {
 "city": "Delhi NCR",
 "experience_type": "Fresher / New Grad",
@@ -328,6 +428,11 @@
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"49c846d1ed1387fea58748312829fcbf8dc34b2819d61c7a0979716892969117:7cca2c86c0e02c77": {
+"city": "Mumbai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Frontend"
 },
 "4ad1f5f2de85f9196693f8fd0f93f5ae835488042a2d196286040330a963c311:9a20b4b636fd2117": {
 "city": "Pune",
@@ -362,6 +467,11 @@
 "51b14abdd642eebd881c6312010ea8c8bc2160281b982c26e66b74fa8a4f1dfe:d0572342daf7639a": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"51faa8e1aa19be23f44aee923cbc5cc5bf6507840015f2bbc86140aab22d9678:8dd585650d35feb0": {
+"city": "Bengaluru",
+"experience_type": "Internship",
 "role_category": "Software Engineering"
 },
 "522e1e88f55c254de8d2b657fd5952ca77643f05087241d55078e004e0b46ded:be8837cb196e1c61": {
@@ -409,6 +519,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Backend"
 },
+"62be03fb27a79feabba3d1144ef5123cc1d4f690ee5dccca64e97021182b5e2b:b40a722e365a86ac": {
+"city": "Multiple / Pan-India",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
+},
 "63fb8ffd5c30a5bbdf0c59a8cc825f01464a6e1a6dcffb7eaf5b7f8d04cd6efa:3fa8f0894fcf887e": {
 "city": "Bengaluru",
 "experience_type": "Internship",
@@ -416,6 +531,11 @@
 },
 "647b87154e23581f0f49785041c96483172139b6d4d63bd9ffa1f7ef1f89fb43:9b1df804dd05c4dc": {
 "city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"66fd578bbf631e121a49592709e730803297af269c147a386ca48a68ae2f3b27:896f58605d12e3fe": {
+"city": "Delhi NCR",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
@@ -449,6 +569,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"6dacb26b431354da1d8dc162d485dc9a9f38feb3745b7efb6d8378d91c4207a0:70ebf402d84c8715": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "AI / ML"
+},
 "6ff4f6c612e4e9749e8689c476d1be51496d4aa1c25092808121e19fe67be87f:571dbf60fc1df979": {
 "city": "Multiple / Pan-India",
 "experience_type": "Fresher / New Grad",
@@ -464,15 +589,40 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"72990fd36ddd0d68e89b00de1d8c7adfadb72fe63a6b07a57d4bee5a933549d7:333dd312d3c72cb0": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
 "758341e3e7ce8a3918bb89ef611685b7cd0d660b53ca5cbccc7d42878d80103c:c0373b2587f62fbb": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"771f5ce6d48f956379992c0830722497038032c72c00db33ee91af35733c531e:726a879e9cd5fadf": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "780df34d77988e1b94c1de237b009b33cdd1b2c9197f03cb7fd526609e8c5fb5:29bab6f30eb7664f": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
+},
+"7907f3b41b5e6bccc7cd6bfc99d0f1bedb97acf3ed59c89ccfc1135d9ab772d0:d0b5afc8404a7c80": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"792dd6f7fac9d88bd8c60ab26ad7a355bb07d33b741afadaf89fed27d4a35d1e:c6f0a726163e4553": {
+"city": "Hyderabad",
+"experience_type": "Internship",
+"role_category": "AI / ML"
+},
+"7aca20e8f4656a8e441083272a49b9b988f5b1a68cef01e9872d2c716e727445:8384e880eabdc8db": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Backend"
 },
 "7b55d033ae7cdb5a41db268c7c99c66b6293002b6fd4a059e9889b7b9e2d79ac:838bd829ef48098d": {
 "city": "Bengaluru",
@@ -504,10 +654,20 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"801bffc3e0f122712e3089c68dccd371643247ac6d1b1352d6ae3a78a868b8ca:f5841aa47f9d5816": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Hardware / Embedded"
+},
 "803cd1e123bd11a5a1bece30d7bc93483b9f1ad4259bb72f3437ee268ab293ea:4d7afc34f2fe47d9": {
 "city": "Pune",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"8073b215b08d2def335958c33ed475b34d5696d4afdeb5d76dcded8cda1ee273:4e6f8b25dabaae7a": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
 },
 "812f24ad13a326495c9e959cb3ca615ad0c0208f986c995eb3f6d2711b4de101:a212943e86524e91": {
 "city": "Pune",
@@ -518,6 +678,11 @@
 "city": "Multiple / Pan-India",
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
+},
+"8240f1fcdae2b5722f431d565575b52fd816a9793801710ff67309e7366d2e17:a831184c32d72eb5": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Frontend"
 },
 "82e2d5c2b41bb73df35b4bfe6d43e7c49bc7a12fd9ab75c65d87dc368fb4261a:9ce1f93c78bccd09": {
 "city": "Multiple / Pan-India",
@@ -544,6 +709,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Backend"
 },
+"841b0fbe1f49094892bf67bf61cc62aaa9f1ad799d217e73aba81ee9bc8a70fd:3be68edb22d2150c": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "84b0a892c042a264c3afed2765b8583be8af2dbf1c6cf35613288aa3eb49bcf8:d68c5948eae43d36": {
 "city": "Pune",
 "experience_type": "Fresher / New Grad",
@@ -558,6 +728,16 @@
 "city": "Multiple / Pan-India",
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
+},
+"85716b78d8409a9b2f4bb0143e0e337ee50e629687a78ec4ad432acecee59709:dabdefdaf04241bc": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
+"858f99c6aa84d38d96ad174e08dc435d2911dfb8b151cb276b13152ba83be7f5:d644bf28abce7068": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
 },
 "890dfc06f4cb3e4636e7025a44aa450eced926b4eca69811adff7d2fc6f9785e:9e10aa8cf66a5446": {
 "city": "Bengaluru",
@@ -614,12 +794,47 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "DevOps / Cloud"
 },
+"8fb6bd05d12eac292248c04e18dc3e7d7718937a9f25be4df0cc2de5085b5443:a112028fbe5bc148": {
+"city": "Pune",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"907581803662cb49de7f8859c46a7f1e053dc1c4d1dcadcde06700967fdb3294:900c0138c546ef62": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "AI / ML"
+},
+"91cedfdce715e79a26b5af12621a52f44ffbc1b6215ab13f86f33d5b91bed947:2dab3994a62432d8": {
+"city": "Delhi NCR",
+"experience_type": "Internship",
+"role_category": "Backend"
+},
 "932037988c4c5ddec0a5368bd1c1fecfcb209ab4b7b1a2364a37dc4fc501042a:2ad687fb909d9478": {
 "city": "Mumbai",
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"9321cad9c8f9b61c777fc86b9d22499bafc6fa31d36cb77724bff6ce5eb990a7:fad24b710a8c0b22": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
+"93deb64fa343bba92b442542014d91fd3002fa1cd1d9b30c1243cfa2440a1a2d:ff1599965de3a4dd": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Backend"
+},
+"94ce915ea8a78931857ebece2a0266a1942f0fc1580f2e76b5125dbcdc358b0f:f5841aa47f9d5816": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Hardware / Embedded"
+},
 "94d47b974176719cf4ffd408ae3aee4615d6e2203d0fcc8674fdb24ca00702c6:fcb88c0afebea35a": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"9598d8dafce105922ececc219ab90b31686cd5347d5a6446d5c77f0dc9660245:22002da6d0b80efd": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
@@ -629,9 +844,19 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Hardware / Embedded"
 },
+"97f41e4ccfe7f2e456a5b6f2b212396b322a5579d09a9535c8c685a74f1485af:dc54809496bee6fc": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "9828abfd46e41e091417c45bc55f7ef3ad45626f2da34b7692a6a85e53792491:1c4f3f7f77684e2d": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
+"role_category": "Backend"
+},
+"99ac010873bae808ed64bd6527eb0fa2624134392a848eeece1a3d2ee241f1f7:50cb1a1a680536ba": {
+"city": "Chennai",
+"experience_type": "Internship",
 "role_category": "Backend"
 },
 "9a7f9f074e9111fa1e05fca244df1d3e3ca407fbc99d14131dc2adf15482c831:f63449467d5ddaa9": {
@@ -639,10 +864,20 @@
 "experience_type": "Internship",
 "role_category": "Software Engineering"
 },
+"9a955f21ece10d55a3ee1b52ed0e40d73e9cc22864be0882061a072241f3c52b:6630517ceb59f2ad": {
+"city": "Multiple / Pan-India",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "9a977fbc5c53b13e00dafc90eeb6267f016cc0b3483b7d99272e0551623aa2f6:b1e9386fd8069d6a": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"9b9cab3345dd6ff35b78260772d6ab5d1fd0d8df3f31a3a8ba274366c0331f4b:c830ff362e459518": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "AI / ML"
 },
 "9e17b3e9193a59d0c7431feb5372a15d950dad29143a0421a9d8c2f7b994cc36:dc4ca090e7530f62": {
 "city": "Delhi NCR",
@@ -668,6 +903,11 @@
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "DevOps / Cloud"
+},
+"a154a84076c06ffd4a3398bbebd5e869a9e5d84ef364e498e35dc84428ad37a3:b8e28b8509deebb8": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "AI / ML"
 },
 "a16c4d5dc5aa079314767e860367d9d9767193b66820a5b53d36746ef3f18fdf:645dd89d8d07e5e3": {
 "city": "Bengaluru",
@@ -719,6 +959,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"a7980daa15f7c8ad112ecda9ebed2e05977e20b595c9fc848e3ac5a6fa60ba4e:255067070b307588": {
+"city": "Multiple / Pan-India",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "a8344f809ea949762a9b759b7d53cd23ac130104d58071fb7afe0cbabec08eb3:345214bcdeade27f": {
 "city": "Hyderabad",
 "experience_type": "Internship",
@@ -744,6 +989,11 @@
 "experience_type": "Internship",
 "role_category": "AI / ML"
 },
+"aad0c67295a244151a26f2d297b9ffb0f2353723d65edc9333a61c3f5578b809:333dd312d3c72cb0": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
 "ab0e69ba2b9edbe6933aba3c3561140f3cc80487f1591069c3f1dac53caa4892:a8a12097e234167c": {
 "city": "Bengaluru",
 "experience_type": "Internship",
@@ -759,7 +1009,17 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"ad9ade9c3aee516483d5befd9695e874be1042af105c8f82ca01c48447dba391:d644bf28abce7068": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
 "ae23476294b1639c46458acfee15f902694f239c707af1def557b3385bfead92:b1e9386fd8069d6a": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"af479e44342837ded78106a8ecaefdb8d4ed0cc4c5517589449837170f70c28c:1dae121507974bba": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
@@ -783,6 +1043,11 @@
 "city": "Hyderabad",
 "experience_type": "Internship",
 "role_category": "DevOps / Cloud"
+},
+"b205614cb7de12bba8b7cdecf6191b8fd32c85c090684849827156ddae5eeb40:25dd024358f6957c": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
 },
 "b2401759e272231bffa4286b9c3408891ebd9c444eed8910f2f50d3019c66ec4:d74943320560be57": {
 "city": "Pune",
@@ -824,14 +1089,34 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"b80b0a8fbe852034009d87a3037b40e5b8fa70686f34e8aced53b8b0812b095e:b8bea7103133eedd": {
+"city": "Delhi NCR",
+"experience_type": "Internship",
+"role_category": "Data Science & Analytics"
+},
 "b810110cf71e6850650d9b6bab1d1289c0c436ef248a00ae2b83d901bfb810d9:726ea3dc413278b0": {
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
 },
+"b88717fedd21ddaf5de83532017de6005eaa53796df0e47c6138034443de6117:3976fc6b13b6b310": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "baaf917b3856b74acc2438b6b774cf1d5d94c9119c948599ce53b06192f95872:43690c37856b0c33": {
 "city": "Delhi NCR",
 "experience_type": "Internship",
+"role_category": "Software Engineering"
+},
+"bb770eaecaecda3803bfd55baa103d1ad31c21bb7c12d44bf3fb1984b71fb712:29de78f29627b11e": {
+"city": "Pune",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
+"bcf06b4f5afe3df9376dd7d59aef1666736b701f65591fc16bdcf8535d45345f:c7fbc8a7d744dc51": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
 "c003f422bcbadf3a351efdf9295809e7592b5e5e3ef489d01e5239a4267bd63a:0a438c411e6637f8": {
@@ -844,10 +1129,20 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "DevOps / Cloud"
 },
+"c0cfafd05b311ef29bc77bdfbe272d462d3183432a671635a1007d5e9a6d1f8e:4e6f8b25dabaae7a": {
+"city": "Delhi NCR",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
+},
 "c1116e496e9efebd853b53f6f936bb051919eea46fb563783907288709c643ba:2ad687fb909d9478": {
 "city": "Mumbai",
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
+},
+"c13cbf4f5b1bec8ead6e1ff3ae608bde91992990114b04332aa9348e4ff3aa8c:0d1a5d4287a75387": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
 },
 "c2fe72c90346fd4b921d340b25da49f8c7ee5f281d2020b7f3f74d6400f4a61c:77a2373c37592a6f": {
 "city": "Kolkata",
@@ -868,6 +1163,16 @@
 "city": "Multiple / Pan-India",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
+},
+"c5a6bb3f374bdccf1c411fe30bbfe4a0796fde6bc1fcbe745ce1d8b41dd960e6:99b95e369b5c75f3": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"c698858ae38150579da8b9a29c557faae54761a75996b6af7cdcb95ae7c7d10f:ab449b770c36b36c": {
+"city": "Mumbai",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
 },
 "c7247b62ed9f5559194ba2712d9c172083e522359451a6da4b44d039a989502b:df76103fc1839e09": {
 "city": "Bengaluru",
@@ -899,13 +1204,28 @@
 "experience_type": "Internship",
 "role_category": "Product / Design"
 },
+"cb5a137b27d98e60806c7650feaf619fcee179df7d51c713690872615f2ce682:90e04ec8db88dfd1": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "cc97fdec23f13c0db0b97ecbca134655d86f66eadf9cbb23600be0a6c9b48428:54aeb0cd8a58944b": {
 "city": "Hyderabad",
 "experience_type": "Internship",
 "role_category": "AI / ML"
 },
+"cd7055b9e32fe30a20612fb5f5037b1ada1fdcc0af790fd90221379147a53dbc:b1e9386fd8069d6a": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
 "ce3eaf6405a9695a99cb7642ec6e27c6fc5859574235fc41e59a5fbd442bb8bd:e6d7e34fc70ae0d9": {
 "city": "Multiple / Pan-India",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"ceadadd2681dcb2b60b225e1dd2e44ed4cb3d3cc7c3d02b484be7b868fd0ee7e:bbb188b3ccde7584": {
+"city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
@@ -913,6 +1233,11 @@
 "city": "Bengaluru",
 "experience_type": "Fresher / New Grad",
 "role_category": "AI / ML"
+},
+"d18b6f6e17df31b72e35e752bb88e183b7070f57560932ad60ea6a18baad2208:6f838008a8f4f162": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Data Science & Analytics"
 },
 "d423824efe6bad603ad5dd2fc208ab07887a29319f590362e732f269ece35348:ef846f12fa72fb46": {
 "city": "Mumbai",
@@ -923,6 +1248,11 @@
 "city": "Hyderabad",
 "experience_type": "Internship",
 "role_category": "Hardware / Embedded"
+},
+"d53f1b6a9908323b92b901658ae00d4113690be1389e06537de3e3673c1042ab:dabdefdaf04241bc": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
 },
 "d58d667497b030e3b552344b6663b79ceb392091c5b18d7f031df4d6b0134a95:43abb094139bb4ed": {
 "city": "Delhi NCR",
@@ -954,6 +1284,16 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"db78df14cc2c303fcc56e4c2d705afa7338b91946ec37fd8cea95dc85ef107b0:a9f6f2a39f3b4e92": {
+"city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"dc1d89b21e513b5be6a6033757a431db87ecf368e2f311b06ff72ea8862fb57b:cb5370bba2400922": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
 "ddb43800116e9702e36c5df6636cfb38d8ae524373caa850817ddfcd10c3e128:afb0e1db15d94788": {
 "city": "Multiple / Pan-India",
 "experience_type": "Internship",
@@ -981,6 +1321,11 @@
 },
 "e3ab30b3260aee9fd27bfbbc465328fc1a55ac5bdd63b87df13b4224faa56e60:64f3d6f38fac0257": {
 "city": "Bengaluru",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"e66d48c86815e8fbbb4868f0235a59e43f40e07909c87688ad22999117433ef8:0afd4b4735bbd848": {
+"city": "Pune",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
@@ -1089,6 +1434,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
 },
+"eef2e8641ea58c8d2991aa720ac178f9d0b1a767c194c15be4993a23c228be9f:354477179826eaf6": {
+"city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "DevOps / Cloud"
+},
 "ef2de56c1934db7be4e702ccbcfdc4c4ac5cdf8813893c5823b2b023f0e28c60:6c399b48c8ee4f80": {
 "city": "Pune",
 "experience_type": "Fresher / New Grad",
@@ -1096,6 +1446,11 @@
 },
 "efc6ff3283cbae474a8fc1d37d31fd084696af546718e1bab2942770b48156c4:33950c0fff75112a": {
 "city": "Hyderabad",
+"experience_type": "Fresher / New Grad",
+"role_category": "Software Engineering"
+},
+"f0222ae79ec628ebc8279635ac47ef3c4a537fd9a4749bd6eed80e53701709a2:f9ef8fff449f623d": {
+"city": "Pune",
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
@@ -1139,6 +1494,11 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"f5a3c815fcaadc6dafbb5b3a343236202e68b342966537fea979bb499dcbb7f9:d8c87ce96875f447": {
+"city": "Multiple / Pan-India",
+"experience_type": "Internship",
+"role_category": "AI / ML"
+},
 "f77b81f2ac347ddf1451c56e625a04e9a39ca70aef0f2c3b3b2f4827a7f084dc:ef846f12fa72fb46": {
 "city": "Mumbai",
 "experience_type": "Fresher / New Grad",
@@ -1149,10 +1509,20 @@
 "experience_type": "Fresher / New Grad",
 "role_category": "Software Engineering"
 },
+"f9468ccb9796f686dcc44bfd07757052ad6682b769fc415532e804be5e6d339b:dabdefdaf04241bc": {
+"city": "Bengaluru",
+"experience_type": "Internship",
+"role_category": "Software Engineering"
+},
 "f9e06d15122d508966148c9e6f4ccb1ec3b02b5b5d999223b4de23889bae8b9e:f73e25c5afa63c90": {
 "city": "Hyderabad",
 "experience_type": "Fresher / New Grad",
 "role_category": "Data Science & Analytics"
+},
+"fafbc2cfe3a01508114bb4c9087133af14bfc06d02326755af2e523319fbe76c:6ab53def43743122": {
+"city": "Chennai",
+"experience_type": "Internship",
+"role_category": "Frontend"
 },
 "fc377fe368adac8f26cd6c61890848653a8e167154624a50a41b063e037d2754:b50fe506270c757c": {
 "city": "Bengaluru",
