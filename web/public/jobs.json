@@ -1,115 +1,13 @@
 [
  {
-  "id": "9321cad9c8f9b61c777fc86b9d22499bafc6fa31d36cb77724bff6ce5eb990a7",
-  "company": "Ainyx",
-  "title": "Developer Advocacy/Relations Intern",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/fa1b6d3e-7199-49eb-96d7-8415f8128e54/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "2d0a440bdd3bbb1a5fa8211ca9f167facfbf4690057a41b88da2281f42f1bac2",
-  "company": "Ainyx",
-  "title": "Frontend Engineering Intern - React",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/cfa6913f-7ee2-466f-8097-1e8c7afd5942/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Frontend",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "310b81684568477e63e6f2454ebfeb343e643f90f58c9ca22065a64e21550e3a",
-  "company": "Ainyx",
-  "title": "Software Engineering Intern - Backend",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/77bfe84c-1c21-4116-b599-abc383009898/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "51faa8e1aa19be23f44aee923cbc5cc5bf6507840015f2bbc86140aab22d9678",
-  "company": "Boeing",
-  "title": "Software Engineer Intern",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/intern/job/IND---Bangalore-India/Software-Engineer-Intern_JR2026529357",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "3dd8c2b1a7b1fd9d937a605902d0c7af7e6c555ea2e174a2d9f8582d2ae6ee0d",
-  "company": "Finastra",
-  "title": "Associate Software Engineering Intern - 10",
-  "location_raw": "Pune, India",
-  "apply_url": "https://finastra.wd3.myworkdayjobs.com/en-US/finc/job/Pune/Associate-Software-Engineering-Intern---10_REQ1126_0038468",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Pune",
-  "experience_type": "Internship"
- },
- {
-  "id": "dc1d89b21e513b5be6a6033757a431db87ecf368e2f311b06ff72ea8862fb57b",
-  "company": "xAGI Labs",
-  "title": "SDE Intern",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/65e62f56-3224-48cb-bd2a-8b4a1a2a3a7b/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "48769311ae0396b1f6cb3a014527870447092c44b6d0294a269b5471cab7a379",
+  "id": "4288986f911883d6fce57f6e00a8029e83434e51fb4e08385831b94a743ec303",
   "company": "Zebra Technologies",
   "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
   "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103671",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103863",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -119,14 +17,14 @@
   "experience_type": "Internship"
  },
  {
-  "id": "85716b78d8409a9b2f4bb0143e0e337ee50e629687a78ec4ad432acecee59709",
+  "id": "070f8ba8500e787253a602d0ca67f9ecdf84149de3d89a563e53bf6e9f8dee9c",
   "company": "Zebra Technologies",
   "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
   "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103778",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103480",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -136,14 +34,14 @@
   "experience_type": "Internship"
  },
  {
-  "id": "f9468ccb9796f686dcc44bfd07757052ad6682b769fc415532e804be5e6d339b",
+  "id": "82d6e90887d7a6e2aea07d5b1a99d8565845fa34cbb8df3c738eef4ef6046287",
   "company": "Zebra Technologies",
   "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
   "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103606",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -153,303 +51,422 @@
   "experience_type": "Internship"
  },
  {
-  "id": "d53f1b6a9908323b92b901658ae00d4113690be1389e06537de3e3673c1042ab",
-  "company": "Zebra Technologies",
-  "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103862-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "3610032209af69fdfb16892d0ace53bb2c595ec66d140f83ffe411e23e08ca60",
-  "company": "Zebra Technologies",
-  "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "b80b0a8fbe852034009d87a3037b40e5b8fa70686f34e8aced53b8b0812b095e",
-  "company": "Crowe",
-  "title": "Data Analytics Developer Intern",
-  "location_raw": "Noida, India",
-  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Noida-Uttar-Pradesh-India/Data-Analytics-Developer-Intern_R-71047",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Delhi NCR",
-  "experience_type": "Internship"
- },
- {
-  "id": "99ac010873bae808ed64bd6527eb0fa2624134392a848eeece1a3d2ee241f1f7",
-  "company": "Explorance",
-  "title": "Back-End Intern",
-  "location_raw": "Chennai, India",
-  "apply_url": "https://explorance.bamboohr.com/careers/360",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
-  "city": "Chennai",
-  "experience_type": "Internship"
- },
- {
-  "id": "fafbc2cfe3a01508114bb4c9087133af14bfc06d02326755af2e523319fbe76c",
-  "company": "Explorance",
-  "title": "Front-End Intern",
-  "location_raw": "Chennai, India",
-  "apply_url": "https://explorance.bamboohr.com/careers/361",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Frontend",
-  "city": "Chennai",
-  "experience_type": "Internship"
- },
- {
-  "id": "b88717fedd21ddaf5de83532017de6005eaa53796df0e47c6138034443de6117",
+  "id": "27c40cf6b29fa31f554c3be50457b3d93330b74555a2ed9e3286056377740420",
   "company": "Amazon",
-  "title": "Software Dev Engineer I - L4",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://www.amazon.jobs/jobs/10605737/apply",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "66fd578bbf631e121a49592709e730803297af269c147a386ca48a68ae2f3b27",
-  "company": "Amazon",
-  "title": "Software Development Engineer - UTR - Pick Stage",
-  "location_raw": "Gurugram, India",
-  "apply_url": "https://www.amazon.jobs/jobs/10588285/apply",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "cb5a137b27d98e60806c7650feaf619fcee179df7d51c713690872615f2ce682",
-  "company": "Capgemini",
-  "title": "FBS Application Developer IV - Gudiewire",
-  "location_raw": "Hyderabad, India +1",
-  "apply_url": "https://apply.workable.com/capgemini-insurance/j/D8CA30AB85/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "f0222ae79ec628ebc8279635ac47ef3c4a537fd9a4749bd6eed80e53701709a2",
-  "company": "Capgemini",
-  "title": "FBS Application Developer III - Guidewire",
-  "location_raw": "Pune, India +1",
-  "apply_url": "https://apply.workable.com/capgemini-insurance/j/CDD63E3635/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Pune",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "e66d48c86815e8fbbb4868f0235a59e43f40e07909c87688ad22999117433ef8",
-  "company": "Capgemini",
-  "title": "FBS Application Developer II - Guidewire",
-  "location_raw": "Pune, India +1",
-  "apply_url": "https://apply.workable.com/capgemini-insurance/j/271DC1DC80/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Pune",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "c5a6bb3f374bdccf1c411fe30bbfe4a0796fde6bc1fcbe745ce1d8b41dd960e6",
-  "company": "Capgemini",
-  "title": "FBS Application Developer I - Guidewire",
-  "location_raw": "Hyderabad, India +1",
-  "apply_url": "https://apply.workable.com/capgemini-insurance/j/4AA6157597/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "cd7055b9e32fe30a20612fb5f5037b1ada1fdcc0af790fd90221379147a53dbc",
-  "company": "Cisco",
-  "title": "Software Engineer",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer_2031617",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "eef2e8641ea58c8d2991aa720ac178f9d0b1a767c194c15be4993a23c228be9f",
-  "company": "Crowe",
-  "title": "Power Platform Developer Apprentice",
+  "title": "Software Development Engineer - Amazon International Seller Services",
   "location_raw": "Hyderabad, India",
-  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Power-Platform-Developer-Apprentice_R-52658",
+  "apply_url": "https://www.amazon.jobs/jobs/10594150/apply",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Hyderabad",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "adefd77750da198cae42573fdbc6604c8ead9126afeb4884c633d569fd53165c",
+  "company": "3M",
+  "title": "Junior Associate Developer - AI",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://3m.wd1.myworkdayjobs.com/en-US/private/job/IN-BANGALORE/Junior-Associate-Developer---AI_R01174228",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "d646e4795e95f3a9906f6e73d067a4674716b94fec134184f9182fec27a0b989",
+  "company": "Bosch",
+  "title": "Embedded SW engineer - EPT2",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162281758-embedded-sw-engineer-ept2?oga=true",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Hardware / Embedded",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "dbe934625a4674e4fe226e340b03de9dc2009c59fd1336bae6f12177627a7505",
+  "company": "FIS",
+  "title": "Python Developer",
+  "location_raw": "India",
+  "apply_url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND-NOID-C-25-SEC-62-TWR-1/Python-Developer_JR0308903",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "25d86f5f968fd06dc683ee3d6cbb08b8247630da4350006dfd39b80e4571bdde",
+  "company": "Hevo Data",
+  "title": "Associate SDE",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://jobs.lever.co/hevodata/4eccaf98-ba19-42ea-b040-e0976d4dadfe",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "a20ed5e31844efdd20069347e56912da69c3375d7b05c9eb10718a9ec5f596df",
+  "company": "Accenture",
+  "title": "Web Developer New Associate",
+  "location_raw": "Mumbai, India",
+  "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Mumbai/Web-Developer-New-Associate_AIOC-S01674391-1",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Frontend",
+  "city": "Mumbai",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "80ae859dee494619caca5f0dba5d72a923ff38da116dceef337bf92ec5fcfb62",
+  "company": "Accenture",
+  "title": "Web Developer New Associate",
+  "location_raw": "Mumbai, India",
+  "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Mumbai/Web-Developer-New-Associate_AIOC-S01674390-1",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Frontend",
+  "city": "Mumbai",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "72d8ffbe03d14cc55a8bd1e167242e1b59dc5aa7ad489d2d9c8d69a386d60d0b",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Cloud Developer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "DevOps / Cloud",
-  "city": "Hyderabad",
+  "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "8240f1fcdae2b5722f431d565575b52fd816a9793801710ff67309e7366d2e17",
-  "company": "Deccan AI",
-  "title": "Frontend Developer",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://app.dover.io/apply/job/27619337-7fc7-422e-99ee-af4849bcf8c4/",
+  "id": "b42ae55edb2db79addda8b6269082523c74fa2bae7215dcbeff2a8136045a3c2",
+  "company": "Razorpay",
+  "title": "Frontend Engineer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731054005",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Frontend",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "af479e44342837ded78106a8ecaefdb8d4ed0cc4c5517589449837170f70c28c",
-  "company": "Disseqt",
-  "title": "Software Development Engineer - SD1/SD2",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/20f511d8-9aab-43d2-b544-623526399c7c/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
   "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "bcf06b4f5afe3df9376dd7d59aef1666736b701f65591fc16bdcf8535d45345f",
-  "company": "Galaxy.ai",
-  "title": "Flutter Developer",
-  "location_raw": "Delhi, India",
-  "apply_url": "https://app.dover.io/apply/job/cb1eb5cd-f437-4a87-85c6-5c5686fa587f/",
+  "id": "a8fa46729afea606a5b07260ed5238828958a97a662a8ed23156f53ca21661aa",
+  "company": "Globalization Partners",
+  "title": "Product Management Intern - AI & Analytics",
+  "location_raw": "Remote - India",
+  "apply_url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
+  "role_category": "AI / ML",
+  "city": "Remote (India)",
+  "experience_type": "Internship"
  },
  {
-  "id": "7907f3b41b5e6bccc7cd6bfc99d0f1bedb97acf3ed59c89ccfc1135d9ab772d0",
-  "company": "Galaxy.ai",
-  "title": "Full-Stack Developer - NextJS - Typescript - Tailwind",
-  "location_raw": "Delhi, India",
-  "apply_url": "https://app.dover.io/apply/job/da5d2fd4-5cb2-4f8d-9d65-7e0a8efd40ac/",
+  "id": "638ed6c2a98fecd9db5479927ba3a37a088287510e20e8537eec2c7a2c3ba17d",
+  "company": "Google",
+  "title": "Data Engineer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://www.google.com/about/careers/applications/jobs/results/96475915810153158",
   "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Software Engineering",
+  "role_category": "Data Science & Analytics",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "2c84e0c918f12e84f01977b8a8078285d753b253151653200b3c0bf2bd6d75cc",
+  "company": "Tyson Foods",
+  "title": "IT Data Engineer I INT",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://tysonfoods.wd5.myworkdayjobs.com/en-US/tsn/job/Bangalore-India/IT-Data-Engineer-I-INT_R0497916-2",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "2b2b3b826c3f3877e47e2937b63be7b1930867664d56c6b32939c81bd4c00f5a",
+  "company": "Centric Software",
+  "title": "Jr. AI Engineer",
+  "location_raw": "Andhra Pradesh, India",
+  "apply_url": "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Andhra-Pradesh-India/Jr-AI-Engineer_JR458",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "5613677b1b24312a8ce923251e5a80b2118a57bedcbb3360c2d1ae2a624176bf",
+  "company": "Crowe",
+  "title": "AI Engineer Apprentice",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/AI-Engineer-Apprentice_R-52668",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Hyderabad",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "a3e1860195ca702c38b49c466acb6409f40a168d57d666c47b08fe75fd10cc0f",
+  "company": "HP",
+  "title": "Data Engineer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Bengaluru-Karnataka-India/Data-Engineer_3170387-1",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "5c39292fb7209d66cf060c698324a5896c59f58d7f5232846ee9b66b8ee6462a",
+  "company": "HP",
+  "title": "Data Engineer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Bengaluru-Karnataka-India/Data-Engineer_3170387",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "4a21395dcda2b6290837ac96b102ae344bf2919cbfd6e7b7197c6e6824e99f1f",
+  "company": "Welocalize",
+  "title": "Project Coordinator - Generative AI Data Operations",
+  "location_raw": "Remote - Gurugram, India",
+  "apply_url": "https://welocalize.wd1.myworkdayjobs.com/en-US/welocalize/job/Asia-Remote/Project-Coordinator---Generative-AI-Data-Operations_R0008079",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
   "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "801bffc3e0f122712e3089c68dccd371643247ac6d1b1352d6ae3a78a868b8ca",
+  "id": "eb62b4e80ac93b177c7d1c56195f68f8ff21ad15a9e2c214663e143138f5a293",
+  "company": "Outpace Consulting",
+  "title": "Data Analyst - Portuguese - Job Code # 74",
+  "location_raw": "Mumbai, India",
+  "apply_url": "https://outpace.in/careers/co/mumbai/54.A65/data-analyst-portuguese-job-code-64/all/?1778131563274",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Mumbai",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "57bd7cb381e36772905f1b62bc8f1a36a9f1c6217ba1669a3c996cafdf73d154",
+  "company": "Cigna",
+  "title": "HIH - Co-Op/Intern (Non-US Only)",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013369",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "f919227e8de29268a2e1e002aae2393513540551a110e2ef9915fc57e9f3263a",
+  "company": "Cigna",
+  "title": "HIH - Co-Op/Intern (Non-US Only)",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013370",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "0e90db1c555f01892c4ee5c63e696f5a25180c2bf9d493e74d3bfe0536d0a176",
+  "company": "Hewlett Packard Enterprise",
+  "title": "External Intern",
+  "location_raw": "Bengaluru, Karnātaka, India",
+  "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "8b1488cb1a1e7427fe5d39a5160745d8ff3014eaa6811497142c8b04b7d335b7",
+  "company": "TransUnion",
+  "title": "Intern - Process Excellence",
+  "location_raw": "Hyderabad",
+  "apply_url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "3e32c64f730cde64fd56dc94b289f0e334fc3547a83e0ad4fd90f28425847e30",
+  "company": "Zebra Technologies",
+  "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
+  "posted_at": null,
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "ae1e79731c81efb2453279534a225e102915af145372e8432b5da0476cf05e34",
+  "company": "Sarvam AI",
+  "title": "Product User Research, Intern",
+  "location_raw": "Bengaluru",
+  "apply_url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+  "posted_at": "2026-11-20T00:00:00Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "060b9d78c3faa71d93dab19d9e5709ab1f42490427b0b3ac1a79a601f27ef83b",
   "company": "GE Vernova",
   "title": "Engineer - Embedded SW Development",
   "location_raw": "Hyderabad, India",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Hyderabad/Engineer---Embedded-SW-Development_R5058723-1",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Hyderabad/Engineer---Embedded-SW-Development_R5058723-2",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -459,20 +476,37 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "94ce915ea8a78931857ebece2a0266a1942f0fc1580f2e76b5125dbcdc358b0f",
-  "company": "GE Vernova",
-  "title": "Engineer - Embedded SW Development",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Hyderabad/Engineer---Embedded-SW-Development_R5058633-2",
+  "id": "085ff4ffcff8113ca16d0a70d170db3cfaf3596ceabdaeb448b348b4a9ed1fb7",
+  "company": "PayPal",
+  "title": "Software Engineer - Backend - Java",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Hardware / Embedded",
-  "city": "Hyderabad",
+  "role_category": "Backend",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "1312457db6d639584531aadf035b3f30bda6b05811206531dc0da085c29b832c",
+  "company": "Galaxy.ai",
+  "title": "AI Automation Educator",
+  "location_raw": "Delhi, India",
+  "apply_url": "https://app.dover.io/apply/job/9b63bd25-9ca4-4fda-9866-917273b896c4/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -483,7 +517,7 @@
   "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Hyderabad/Engineer---Embedded-SW-Development_R5058633-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -493,53 +527,19 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "060b9d78c3faa71d93dab19d9e5709ab1f42490427b0b3ac1a79a601f27ef83b",
-  "company": "GE Vernova",
-  "title": "Engineer - Embedded SW Development",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Hyderabad/Engineer---Embedded-SW-Development_R5058723-2",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Hardware / Embedded",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "97f41e4ccfe7f2e456a5b6f2b212396b322a5579d09a9535c8c685a74f1485af",
-  "company": "GravityxAI",
-  "title": "Full Stack Developer",
+  "id": "1c121167baeba1426726c861dbb36e8300e5f1101a72fdf31dc714e2a3c2c0bd",
+  "company": "xAGI Labs",
+  "title": "Machine Learning Scientist",
   "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/4ff390f8-6b00-4a36-9702-61c4632a5dbc/",
+  "apply_url": "https://app.dover.io/apply/job/55e95e2b-bb6a-4c06-ae49-ca2aaa5d36ba/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "db78df14cc2c303fcc56e4c2d705afa7338b91946ec37fd8cea95dc85ef107b0",
-  "company": "IQVIA",
-  "title": "Software Development Engineer 2",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/Software-Development-Engineer-3_R1575521",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
+  "role_category": "AI / ML",
   "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
@@ -551,7 +551,7 @@
   "apply_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Chennai-India/Software-Quality-Engineer_2641378",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -561,6 +561,108 @@
   "experience_type": "Fresher / New Grad"
  },
  {
+  "id": "29d7a31ba8febe6345867d605c0c83af526b2aa55ded8287faab0f4d081b5263",
+  "company": "Airbus",
+  "title": "Technical Data Analyst Intern",
+  "location_raw": "Bangalore Area",
+  "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "2d0a440bdd3bbb1a5fa8211ca9f167facfbf4690057a41b88da2281f42f1bac2",
+  "company": "Ainyx",
+  "title": "Frontend Engineering Intern - React",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/cfa6913f-7ee2-466f-8097-1e8c7afd5942/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Frontend",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "2eb6f7d0c7e180949080e9bfcce35f53fbc3b8aaf5c89413f4a014dbc770a7ac",
+  "company": "Zebra Technologies",
+  "title": "Intern II",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-II_JR103699",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Other",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "30f948b0ce632e61a82e3c88b56453ce13bd6cbe23451e3ea34fb84e632462b1",
+  "company": "NETGEAR",
+  "title": "QA Automation Developer III - SASE Platform",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://jobs.ashbyhq.com/netgear/8940600f-60c5-4d01-a0b9-4e46287ce6ac",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "DevOps / Cloud",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "310b81684568477e63e6f2454ebfeb343e643f90f58c9ca22065a64e21550e3a",
+  "company": "Ainyx",
+  "title": "Software Engineering Intern - Backend",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/77bfe84c-1c21-4116-b599-abc383009898/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Backend",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "3610032209af69fdfb16892d0ace53bb2c595ec66d140f83ffe411e23e08ca60",
+  "company": "Zebra Technologies",
+  "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
   "id": "3dff723b73f851d352d419dae86216b649adf06c9b2ccfba9130a2e774da6936",
   "company": "KLA",
   "title": "Software Engineer",
@@ -568,7 +670,7 @@
   "apply_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Chennai-India/Software-Engineer_2643187",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -585,7 +687,7 @@
   "apply_url": "https://app.dover.io/apply/job/25724642-9216-4ad8-b0fd-fce0151eee35/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -595,31 +697,82 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "30f948b0ce632e61a82e3c88b56453ce13bd6cbe23451e3ea34fb84e632462b1",
-  "company": "NETGEAR",
-  "title": "QA Automation Developer III - SASE Platform",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.ashbyhq.com/netgear/8940600f-60c5-4d01-a0b9-4e46287ce6ac",
+  "id": "62be03fb27a79feabba3d1144ef5123cc1d4f690ee5dccca64e97021182b5e2b",
+  "company": "Peakflo",
+  "title": "Data Analyst - Remote - India",
+  "location_raw": "India",
+  "apply_url": "https://app.dover.io/apply/job/577d81ef-4565-4516-810b-5cdc39630d66/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Bengaluru",
+  "role_category": "Data Science & Analytics",
+  "city": "Multiple / Pan-India",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "085ff4ffcff8113ca16d0a70d170db3cfaf3596ceabdaeb448b348b4a9ed1fb7",
-  "company": "PayPal",
-  "title": "Software Engineer - Backend - Java",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1",
+  "id": "6dacb26b431354da1d8dc162d485dc9a9f38feb3745b7efb6d8378d91c4207a0",
+  "company": "Crowe",
+  "title": "Junior AI Platform Engineer",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Hyderabad",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "7907f3b41b5e6bccc7cd6bfc99d0f1bedb97acf3ed59c89ccfc1135d9ab772d0",
+  "company": "Galaxy.ai",
+  "title": "Full-Stack Developer - NextJS - Typescript - Tailwind",
+  "location_raw": "Delhi, India",
+  "apply_url": "https://app.dover.io/apply/job/da5d2fd4-5cb2-4f8d-9d65-7e0a8efd40ac/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Delhi NCR",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "792dd6f7fac9d88bd8c60ab26ad7a355bb07d33b741afadaf89fed27d4a35d1e",
+  "company": "Crowe",
+  "title": "MSFT AI Business Solutions Technical Intern",
+  "location_raw": "Hyderabad, India +1",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/MSFT-AI-Business-Solutions-Technical-Intern_R-71046",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Hyderabad",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "7aca20e8f4656a8e441083272a49b9b988f5b1a68cef01e9872d2c716e727445",
+  "company": "SuperApp",
+  "title": "Software Engineer - Backend - Early Careers",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://job-boards.greenhouse.io/superapp/jobs/8859685002",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -629,37 +782,122 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "9a955f21ece10d55a3ee1b52ed0e40d73e9cc22864be0882061a072241f3c52b",
-  "company": "Sigitek Software Services",
-  "title": "Full Stack Developer",
-  "location_raw": "Bhubaneswar, India",
-  "apply_url": "https://app.dover.io/apply/job/910ad71b-6da7-4182-b892-b98927391dbf/",
+  "id": "801bffc3e0f122712e3089c68dccd371643247ac6d1b1352d6ae3a78a868b8ca",
+  "company": "GE Vernova",
+  "title": "Engineer - Embedded SW Development",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Hyderabad/Engineer---Embedded-SW-Development_R5058723-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Multiple / Pan-India",
+  "role_category": "Hardware / Embedded",
+  "city": "Hyderabad",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "a7980daa15f7c8ad112ecda9ebed2e05977e20b595c9fc848e3ac5a6fa60ba4e",
-  "company": "The Hartford",
-  "title": "Junior Software Engineer - SDET",
-  "location_raw": "India",
-  "apply_url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/India-GCC-Puppalaguda-Village/Junior-Software-Engineer--SDET-_R2627526",
+  "id": "8073b215b08d2def335958c33ed475b34d5696d4afdeb5d76dcded8cda1ee273",
+  "company": "Gartner",
+  "title": "Data Analyst",
+  "location_raw": "Gurugram, India",
+  "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Data-Analyst_115398-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Delhi NCR",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "8240f1fcdae2b5722f431d565575b52fd816a9793801710ff67309e7366d2e17",
+  "company": "Deccan AI",
+  "title": "Frontend Developer",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://app.dover.io/apply/job/27619337-7fc7-422e-99ee-af4849bcf8c4/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Frontend",
+  "city": "Hyderabad",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "8fb6bd05d12eac292248c04e18dc3e7d7718937a9f25be4df0cc2de5085b5443",
+  "company": "Ensono",
+  "title": "Associate Software Engineer - Product & Tech",
+  "location_raw": "Pune, India",
+  "apply_url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4749950005",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
-  "city": "Multiple / Pan-India",
+  "city": "Pune",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "9321cad9c8f9b61c777fc86b9d22499bafc6fa31d36cb77724bff6ce5eb990a7",
+  "company": "Ainyx",
+  "title": "Developer Advocacy/Relations Intern",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/fa1b6d3e-7199-49eb-96d7-8415f8128e54/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "93deb64fa343bba92b442542014d91fd3002fa1cd1d9b30c1243cfa2440a1a2d",
+  "company": "Parspec",
+  "title": "Software Engineer - 1 - Backend",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://jobs.ashbyhq.com/parspec/33854703-7d89-4bf1-9a08-9555f22cd21b",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Backend",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "94ce915ea8a78931857ebece2a0266a1942f0fc1580f2e76b5125dbcdc358b0f",
+  "company": "GE Vernova",
+  "title": "Engineer - Embedded SW Development",
+  "location_raw": "Hyderabad, India",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Hyderabad/Engineer---Embedded-SW-Development_R5058633-2",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Hardware / Embedded",
+  "city": "Hyderabad",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -670,7 +908,194 @@
   "apply_url": "https://aptos.wd108.myworkdayjobs.com/en-US/aptos/job/IN-Bangalore-Office/Software-Developer-L1_JR100206",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "97f41e4ccfe7f2e456a5b6f2b212396b322a5579d09a9535c8c685a74f1485af",
+  "company": "GravityxAI",
+  "title": "Full Stack Developer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/4ff390f8-6b00-4a36-9702-61c4632a5dbc/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "99ac010873bae808ed64bd6527eb0fa2624134392a848eeece1a3d2ee241f1f7",
+  "company": "Explorance",
+  "title": "Back-End Intern",
+  "location_raw": "Chennai, India",
+  "apply_url": "https://explorance.bamboohr.com/careers/360",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Backend",
+  "city": "Chennai",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "9a955f21ece10d55a3ee1b52ed0e40d73e9cc22864be0882061a072241f3c52b",
+  "company": "Sigitek Software Services",
+  "title": "Full Stack Developer",
+  "location_raw": "Bhubaneswar, India",
+  "apply_url": "https://app.dover.io/apply/job/910ad71b-6da7-4182-b892-b98927391dbf/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "9b9cab3345dd6ff35b78260772d6ab5d1fd0d8df3f31a3a8ba274366c0331f4b",
+  "company": "GravityxAI",
+  "title": "AI Intern",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/16e58ae6-e7ae-44e2-b1ca-89deef87e1da/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "a154a84076c06ffd4a3398bbebd5e869a9e5d84ef364e498e35dc84428ad37a3",
+  "company": "Neolytix",
+  "title": "Associate - AI & Automation Developer",
+  "location_raw": "Gurugram, India",
+  "apply_url": "https://careers.neolytix.com/apply/t4EzWSQ646/Associate-AI-Automation-Developer",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Delhi NCR",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "a7980daa15f7c8ad112ecda9ebed2e05977e20b595c9fc848e3ac5a6fa60ba4e",
+  "company": "The Hartford",
+  "title": "Junior Software Engineer - SDET",
+  "location_raw": "India",
+  "apply_url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/India-GCC-Puppalaguda-Village/Junior-Software-Engineer--SDET-_R2627526",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "aad0c67295a244151a26f2d297b9ffb0f2353723d65edc9333a61c3f5578b809",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Cloud Developer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-1",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "DevOps / Cloud",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "ad9ade9c3aee516483d5befd9695e874be1042af105c8f82ca01c48447dba391",
+  "company": "74Software",
+  "title": "Software Security Engineer",
+  "location_raw": "Noida, India",
+  "apply_url": "https://careers-74software.icims.com/jobs/8877/software-security-engineer-ii/job",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "DevOps / Cloud",
+  "city": "Delhi NCR",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "b205614cb7de12bba8b7cdecf6191b8fd32c85c090684849827156ddae5eeb40",
+  "company": "MedTourEasy",
+  "title": "Data Analyst",
+  "location_raw": "Noida, India +3",
+  "apply_url": "https://app.dover.io/apply/job/e7d57faf-9635-49e3-ac3d-a88e726cb921/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Delhi NCR",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "b80b0a8fbe852034009d87a3037b40e5b8fa70686f34e8aced53b8b0812b095e",
+  "company": "Crowe",
+  "title": "Data Analytics Developer Intern",
+  "location_raw": "Noida, India",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Noida-Uttar-Pradesh-India/Data-Analytics-Developer-Intern_R-71047",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Data Science & Analytics",
+  "city": "Delhi NCR",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "b88717fedd21ddaf5de83532017de6005eaa53796df0e47c6138034443de6117",
+  "company": "Amazon",
+  "title": "Software Dev Engineer I - L4",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://www.amazon.jobs/jobs/10605737/apply",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -687,7 +1112,7 @@
   "apply_url": "https://apply.workable.com/capgemini-insurance/j/981B712B42/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -697,342 +1122,19 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "a154a84076c06ffd4a3398bbebd5e869a9e5d84ef364e498e35dc84428ad37a3",
-  "company": "Neolytix",
-  "title": "Associate - AI & Automation Developer",
-  "location_raw": "Gurugram, India",
-  "apply_url": "https://careers.neolytix.com/apply/t4EzWSQ646/Associate-AI-Automation-Developer",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "93deb64fa343bba92b442542014d91fd3002fa1cd1d9b30c1243cfa2440a1a2d",
-  "company": "Parspec",
-  "title": "Software Engineer - 1 - Backend",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.ashbyhq.com/parspec/33854703-7d89-4bf1-9a08-9555f22cd21b",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "c13cbf4f5b1bec8ead6e1ff3ae608bde91992990114b04332aa9348e4ff3aa8c",
-  "company": "Nemetschek",
-  "title": "AWS Cloud Engineer",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.smartrecruiters.com/NemetschekSE2/744000161734699-aws-cloud-engineer?oga=true",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "3bd7800759c1b0358a8122840fb000b786f21c38df30f84fb84d876f7c5d62ec",
-  "company": "Accenture",
-  "title": "Web Developer Associate",
-  "location_raw": "Mumbai, India",
-  "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Mumbai/Web-Developer-Analyst_AIOC-S01667025-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Frontend",
-  "city": "Mumbai",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "49c846d1ed1387fea58748312829fcbf8dc34b2819d61c7a0979716892969117",
-  "company": "Accenture",
-  "title": "Web Developer Associate",
-  "location_raw": "Mumbai, India",
-  "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Mumbai/Web-Developer-Associate_AIOC-S01674394-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Frontend",
-  "city": "Mumbai",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "3501c64c2cf02c3209cb1a517b42d5fd7f14b72591c385b37c3f1e8806097672",
-  "company": "Accenture",
-  "title": "Web Developer New Associate",
-  "location_raw": "Mumbai, India",
-  "apply_url": "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Mumbai/Web-Developer-New-Associate_AIOC-S01674392-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Frontend",
-  "city": "Mumbai",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "771f5ce6d48f956379992c0830722497038032c72c00db33ee91af35733c531e",
-  "company": "PwC",
-  "title": "AES Salesforce CGRE Mobility Developer - Associate",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore/AES-Salesforce-CGRE-Mobility-Developer---Associate_773464WD",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "8fb6bd05d12eac292248c04e18dc3e7d7718937a9f25be4df0cc2de5085b5443",
-  "company": "Ensono",
-  "title": "Associate Software Engineer - Product & Tech",
-  "location_raw": "Pune, India",
-  "apply_url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4749950005",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Pune",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "ceadadd2681dcb2b60b225e1dd2e44ed4cb3d3cc7c3d02b484be7b868fd0ee7e",
-  "company": "rubrik",
-  "title": "Software Engineer Product Infra: Core Services",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "72990fd36ddd0d68e89b00de1d8c7adfadb72fe63a6b07a57d4bee5a933549d7",
-  "company": "Hewlett Packard Enterprise",
-  "title": "Cloud Developer",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-2",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "aad0c67295a244151a26f2d297b9ffb0f2353723d65edc9333a61c3f5578b809",
-  "company": "Hewlett Packard Enterprise",
-  "title": "Cloud Developer",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "7aca20e8f4656a8e441083272a49b9b988f5b1a68cef01e9872d2c716e727445",
-  "company": "SuperApp",
-  "title": "Software Engineer - Backend - Early Careers",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://job-boards.greenhouse.io/superapp/jobs/8859685002",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "ad9ade9c3aee516483d5befd9695e874be1042af105c8f82ca01c48447dba391",
-  "company": "74Software",
-  "title": "Software Security Engineer",
-  "location_raw": "Noida, India",
-  "apply_url": "https://careers-74software.icims.com/jobs/8877/software-security-engineer-ii/job",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "858f99c6aa84d38d96ad174e08dc435d2911dfb8b151cb276b13152ba83be7f5",
-  "company": "Axway",
-  "title": "Software Security Engineer",
-  "location_raw": "Noida, India",
-  "apply_url": "https://careers-axway.icims.com/jobs/8877/software-security-engineer-/job",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "9b9cab3345dd6ff35b78260772d6ab5d1fd0d8df3f31a3a8ba274366c0331f4b",
-  "company": "GravityxAI",
-  "title": "AI Intern",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/16e58ae6-e7ae-44e2-b1ca-89deef87e1da/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "f5a3c815fcaadc6dafbb5b3a343236202e68b342966537fea979bb499dcbb7f9",
-  "company": "Peakflo",
-  "title": "Machine Learning - ML Engineer Intern - Paid - India/Remote",
-  "location_raw": "India",
-  "apply_url": "https://app.dover.io/apply/job/f7345aa2-9bc2-4196-99e4-2c3f277f9bfb/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
-  "id": "792dd6f7fac9d88bd8c60ab26ad7a355bb07d33b741afadaf89fed27d4a35d1e",
-  "company": "Crowe",
-  "title": "MSFT AI Business Solutions Technical Intern",
-  "location_raw": "Hyderabad, India +1",
-  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/MSFT-AI-Business-Solutions-Technical-Intern_R-71046",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Hyderabad",
-  "experience_type": "Internship"
- },
- {
-  "id": "0bcec8df7a76f43a12333ae4fb4b82f6cad4e63120ddc93243ec90ec9b95d885",
-  "company": "Crowe",
-  "title": "Data Engineer Apprentice",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Data-Engineer-Apprentice_R-52634",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "1312457db6d639584531aadf035b3f30bda6b05811206531dc0da085c29b832c",
+  "id": "bcf06b4f5afe3df9376dd7d59aef1666736b701f65591fc16bdcf8535d45345f",
   "company": "Galaxy.ai",
-  "title": "AI Automation Educator",
+  "title": "Flutter Developer",
   "location_raw": "Delhi, India",
-  "apply_url": "https://app.dover.io/apply/job/9b63bd25-9ca4-4fda-9866-917273b896c4/",
+  "apply_url": "https://app.dover.io/apply/job/cb1eb5cd-f437-4a87-85c6-5c5686fa587f/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "2ca31188abba77239753b5beedca76d0af148f8abc4ce98390efb3b73e1107b0",
-  "company": "Gartner",
-  "title": "Associate Data Analyst",
-  "location_raw": "Gurugram, India",
-  "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Associate-Data-Analyst_115506-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
+  "role_category": "Software Engineering",
   "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
@@ -1044,7 +1146,7 @@
   "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Data-Analyst_113102-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1054,122 +1156,37 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "8073b215b08d2def335958c33ed475b34d5696d4afdeb5d76dcded8cda1ee273",
-  "company": "Gartner",
-  "title": "Data Analyst",
-  "location_raw": "Gurugram, India",
-  "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Data-Analyst_115398-1",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "b205614cb7de12bba8b7cdecf6191b8fd32c85c090684849827156ddae5eeb40",
-  "company": "MedTourEasy",
-  "title": "Data Analyst",
-  "location_raw": "Noida, India +3",
-  "apply_url": "https://app.dover.io/apply/job/e7d57faf-9635-49e3-ac3d-a88e726cb921/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Delhi NCR",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "62be03fb27a79feabba3d1144ef5123cc1d4f690ee5dccca64e97021182b5e2b",
-  "company": "Peakflo",
-  "title": "Data Analyst - Remote - India",
-  "location_raw": "India",
-  "apply_url": "https://app.dover.io/apply/job/577d81ef-4565-4516-810b-5cdc39630d66/",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "d18b6f6e17df31b72e35e752bb88e183b7070f57560932ad60ea6a18baad2208",
-  "company": "RSM",
-  "title": "SMI Data Analyst 1",
+  "id": "c13cbf4f5b1bec8ead6e1ff3ae608bde91992990114b04332aa9348e4ff3aa8c",
+  "company": "Nemetschek",
+  "title": "AWS Cloud Engineer",
   "location_raw": "Bengaluru, India",
-  "apply_url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Bengaluru/SMI-Data-Analyst--1_JR119863",
+  "apply_url": "https://jobs.smartrecruiters.com/NemetschekSE2/744000161734699-aws-cloud-engineer?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "Data Science & Analytics",
+  "role_category": "DevOps / Cloud",
   "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "1c121167baeba1426726c861dbb36e8300e5f1101a72fdf31dc714e2a3c2c0bd",
-  "company": "xAGI Labs",
-  "title": "Machine Learning Scientist",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://app.dover.io/apply/job/55e95e2b-bb6a-4c06-ae49-ca2aaa5d36ba/",
+  "id": "c5a6bb3f374bdccf1c411fe30bbfe4a0796fde6bc1fcbe745ce1d8b41dd960e6",
+  "company": "Capgemini",
+  "title": "FBS Application Developer I - Guidewire",
+  "location_raw": "Hyderabad, India +1",
+  "apply_url": "https://apply.workable.com/capgemini-insurance/j/4AA6157597/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "6dacb26b431354da1d8dc162d485dc9a9f38feb3745b7efb6d8378d91c4207a0",
-  "company": "Crowe",
-  "title": "Junior AI Platform Engineer",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
+  "role_category": "Software Engineering",
   "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "2f995663102a3af8cef26f136358360706f16c5bc82900e32dc07ad9b8c450c3",
-  "company": "Gartner",
-  "title": "Associate Data Scientist",
-  "location_raw": "Gurugram, India",
-  "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Gurgaon/Associate-Data-Scientist_113044",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -1180,7 +1197,7 @@
   "apply_url": "https://mdlz.wd3.myworkdayjobs.com/en-US/external/job/Mumbai-India/Associate-Data-Engineer_R-178820",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1190,53 +1207,70 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "29d7a31ba8febe6345867d605c0c83af526b2aa55ded8287faab0f4d081b5263",
-  "company": "Airbus",
-  "title": "Technical Data Analyst Intern",
-  "location_raw": "Bangalore Area",
-  "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392",
+  "id": "cb5a137b27d98e60806c7650feaf619fcee179df7d51c713690872615f2ce682",
+  "company": "Capgemini",
+  "title": "FBS Application Developer IV - Gudiewire",
+  "location_raw": "Hyderabad, India +1",
+  "apply_url": "https://apply.workable.com/capgemini-insurance/j/D8CA30AB85/",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
-   "sarthzk"
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Hyderabad",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "cd7055b9e32fe30a20612fb5f5037b1ada1fdcc0af790fd90221379147a53dbc",
+  "company": "Cisco",
+  "title": "Software Engineer",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer_2031617",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "d18b6f6e17df31b72e35e752bb88e183b7070f57560932ad60ea6a18baad2208",
+  "company": "RSM",
+  "title": "SMI Data Analyst 1",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Bengaluru/SMI-Data-Analyst--1_JR119863",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Data Science & Analytics",
   "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "841b0fbe1f49094892bf67bf61cc62aaa9f1ad799d217e73aba81ee9bc8a70fd",
-  "company": "Ciena",
-  "title": "Engineering Applications Developer_Intern",
-  "location_raw": "Gurugram",
-  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Engineering-Applications-Developer-Intern_R031737",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "907581803662cb49de7f8859c46a7f1e053dc1c4d1dcadcde06700967fdb3294",
-  "company": "Philips",
-  "title": "Intern – Data Science and AI Engineering",
-  "location_raw": "Bangalore",
-  "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
+  "id": "d53f1b6a9908323b92b901658ae00d4113690be1389e06537de3e3673c1042ab",
+  "company": "Zebra Technologies",
+  "title": "2027 - 6 Month Internship - Bengaluru Software Engineering",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103862-1",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
-   "sarthzk"
+   "speedyapply"
   ],
   "closed_at": null,
-  "role_category": "AI / ML",
+  "role_category": "Software Engineering",
   "city": "Bengaluru",
   "experience_type": "Internship"
  },
@@ -1248,7 +1282,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-1_JR103383",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1258,6 +1292,23 @@
   "experience_type": "Internship"
  },
  {
+  "id": "db78df14cc2c303fcc56e4c2d705afa7338b91946ec37fd8cea95dc85ef107b0",
+  "company": "IQVIA",
+  "title": "Software Development Engineer 2",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/Software-Development-Engineer-3_R1575521",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
   "id": "db7e8399295e40b77f88217f7a457801c74350a253301ea5e66dd425d6907a9d",
   "company": "Zebra Technologies",
   "title": "Intern support II-1",
@@ -1265,13 +1316,98 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103384",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Other",
   "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "dc1d89b21e513b5be6a6033757a431db87ecf368e2f311b06ff72ea8862fb57b",
+  "company": "xAGI Labs",
+  "title": "SDE Intern",
+  "location_raw": "Bengaluru, India",
+  "apply_url": "https://app.dover.io/apply/job/65e62f56-3224-48cb-bd2a-8b4a1a2a3a7b/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "e66d48c86815e8fbbb4868f0235a59e43f40e07909c87688ad22999117433ef8",
+  "company": "Capgemini",
+  "title": "FBS Application Developer II - Guidewire",
+  "location_raw": "Pune, India +1",
+  "apply_url": "https://apply.workable.com/capgemini-insurance/j/271DC1DC80/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Pune",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "f0222ae79ec628ebc8279635ac47ef3c4a537fd9a4749bd6eed80e53701709a2",
+  "company": "Capgemini",
+  "title": "FBS Application Developer III - Guidewire",
+  "location_raw": "Pune, India +1",
+  "apply_url": "https://apply.workable.com/capgemini-insurance/j/CDD63E3635/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Pune",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "f5a3c815fcaadc6dafbb5b3a343236202e68b342966537fea979bb499dcbb7f9",
+  "company": "Peakflo",
+  "title": "Machine Learning - ML Engineer Intern - Paid - India/Remote",
+  "location_raw": "India",
+  "apply_url": "https://app.dover.io/apply/job/f7345aa2-9bc2-4196-99e4-2c3f277f9bfb/",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "AI / ML",
+  "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "fafbc2cfe3a01508114bb4c9087133af14bfc06d02326755af2e523319fbe76c",
+  "company": "Explorance",
+  "title": "Front-End Intern",
+  "location_raw": "Chennai, India",
+  "apply_url": "https://explorance.bamboohr.com/careers/361",
+  "posted_at": null,
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "Frontend",
+  "city": "Chennai",
   "experience_type": "Internship"
  },
  {
@@ -1282,47 +1418,13 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103681",
   "posted_at": null,
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Other",
   "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
-  "id": "2eb6f7d0c7e180949080e9bfcce35f53fbc3b8aaf5c89413f4a014dbc770a7ac",
-  "company": "Zebra Technologies",
-  "title": "Intern II",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-II_JR103699",
-  "posted_at": null,
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Other",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
-  "id": "91cedfdce715e79a26b5af12621a52f44ffbc1b6215ab13f86f33d5b91bed947",
-  "company": "Paytm",
-  "title": "Backend - Intern ( SEA & Europe)",
-  "location_raw": "Noida, Uttar Pradesh",
-  "apply_url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-  "posted_at": "2026-11-19T00:00:00Z",
-  "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
-  "city": "Delhi NCR",
   "experience_type": "Internship"
  },
  {
@@ -1333,7 +1435,7 @@
   "apply_url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056",
   "posted_at": "2026-11-19T00:00:00Z",
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1343,6 +1445,24 @@
   "experience_type": "Fresher / New Grad"
  },
  {
+  "id": "91cedfdce715e79a26b5af12621a52f44ffbc1b6215ab13f86f33d5b91bed947",
+  "company": "Paytm",
+  "title": "Backend - Intern ( SEA & Europe)",
+  "location_raw": "Noida, Uttar Pradesh",
+  "apply_url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+  "posted_at": "2026-11-19T00:00:00Z",
+  "first_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "iitian_vibes",
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Backend",
+  "city": "Delhi NCR",
+  "experience_type": "Internship"
+ },
+ {
   "id": "ebcbf44cf054650e933972e5c5b27289b96840072825c756aa45313a92966e15",
   "company": "LSEG",
   "title": "Intern, Accounts Receivables",
@@ -1350,7 +1470,7 @@
   "apply_url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Accounts-Receivables_R0125102",
   "posted_at": "2026-11-19T00:00:00Z",
   "first_seen": "2026-11-19T09:52:41.488438Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1367,7 +1487,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/maskoidtechnologies/744000152648069-wordpress-developer?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1384,7 +1504,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000004487-site-reliability-engineer-on-prem-1-to-4-years-?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1401,7 +1521,7 @@
   "apply_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Intern_R578197",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1418,7 +1538,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/Computer-Vision-Developer-1_JR103371",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1435,7 +1555,7 @@
   "apply_url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1452,7 +1572,7 @@
   "apply_url": "https://jobs.lever.co/cin7/510ff0bd-2b01-4645-bf6f-89be209ad154",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1469,7 +1589,7 @@
   "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Bangalore-India/Associate-Systems-Developers_R-01369462",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1486,7 +1606,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1503,7 +1623,7 @@
   "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Apprentice--Visible-Alpha-Client-Support_332797-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1513,23 +1633,6 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "08ece2e7fba462e3fb17db033ee39680dd1c9c537aed1d9205a16293947f4bfd",
-  "company": "GE HealthCare",
-  "title": "Operational Management Leadership Program Intern",
-  "location_raw": "Bengaluru",
-  "apply_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Operational-Management-Leadership-Program-Intern_R4049562-1",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Other",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
   "id": "08f6dde8d4c27851313f1e1ab94405d152f857238e8300a0868f42fe3ff9ece7",
   "company": "Instawork",
   "title": "Hardware Intern — Robotics & AI",
@@ -1537,7 +1640,7 @@
   "apply_url": "https://job-boards.greenhouse.io/instawork/jobs/4706444006",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1554,7 +1657,7 @@
   "apply_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Chennai-India/Engr--Software_2643217",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1571,7 +1674,7 @@
   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1588,7 +1691,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10582732/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1605,7 +1708,7 @@
   "apply_url": "https://internationalcareers-bruker.icims.com/jobs/19842/graduate-apprenticeship-trainee---tech-support-%28non---it-software%29/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1622,7 +1725,7 @@
   "apply_url": "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/12541",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1639,7 +1742,7 @@
   "apply_url": "https://job-boards.greenhouse.io/deepintent/jobs/6241859004",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1656,7 +1759,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10595857/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1673,7 +1776,7 @@
   "apply_url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/external/job/Mumbai-India/Analyst--Full-Stack-Developer--Credit-Technology-_R8709",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1690,7 +1793,7 @@
   "apply_url": "https://jobs.lever.co/uei/a6e184f4-71da-42f6-b642-b11fc89acd04",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1707,7 +1810,7 @@
   "apply_url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "surya"
   ],
@@ -1724,7 +1827,7 @@
   "apply_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---India---Bangalore-Bagmane-Tech-Park/AI-Engineer--Agentic-Systems--Quality-Engineering-_JR-022096",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1741,7 +1844,7 @@
   "apply_url": "https://apply.workable.com/botsync-1/j/4A201D8F01/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1758,7 +1861,7 @@
   "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1775,7 +1878,7 @@
   "apply_url": "https://ksb.wd3.myworkdayjobs.com/en-US/ksb_externalcareersite/job/Pune/Associate-Software-Developer_JR_30575",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1792,7 +1895,7 @@
   "apply_url": "https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1809,7 +1912,7 @@
   "apply_url": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1826,7 +1929,7 @@
   "apply_url": "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Bangalore-India/BI-Developer_R322935",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1843,30 +1946,13 @@
   "apply_url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Apprentice_JR-213466",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Other",
   "city": "Multiple / Pan-India",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "1e7f0557d8bb1484aefd8eff038c86f656192b2d6665b7e150784aec065d9e8d",
-  "company": "PwC",
-  "title": "Business AI Engineer - Associate- 2027",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/nonpublic_postings/job/Bangalore/Business-AI-Engineer---Associate--2027_766666WD",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -1877,7 +1963,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=B-I01",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1894,7 +1980,7 @@
   "apply_url": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Hyderabad/Associate-Developer--SQL-and-UNIX-operating-system_19043143",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1911,7 +1997,7 @@
   "apply_url": "https://www.google.com/about/careers/applications/jobs/results/120415858164933318",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1928,7 +2014,7 @@
   "apply_url": "https://incareers-zs.icims.com/jobs/24123/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1945,7 +2031,7 @@
   "apply_url": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1962,7 +2048,7 @@
   "apply_url": "https://apply.workable.com/luxasia/j/CFF16F4372/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -1979,7 +2065,7 @@
   "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Client-Support_332888-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -1996,7 +2082,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10557374/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2013,7 +2099,7 @@
   "apply_url": "https://gxs.wd3.myworkdayjobs.com/en-US/grxst/job/Bangalore-India/Software-Engineering-Internship_R-2026-10-101982",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2030,7 +2116,7 @@
   "apply_url": "https://qualys.wd5.myworkdayjobs.com/en-US/careers/job/Pune/Software-Engineer_R0004973",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2047,7 +2133,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155409179-software-engineer?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2064,7 +2150,7 @@
   "apply_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/Pune-India/Data-Scientist-I_R-278159",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2081,7 +2167,7 @@
   "apply_url": "https://havas.wd3.myworkdayjobs.com/en-US/groupexternalcareersite/job/Mumbai/Associate-Data-Analyst---CSA_JR0100536",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2098,7 +2184,7 @@
   "apply_url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND-PUNE-FL7/Java-Developer-with-Angular---Spring-Hibernate_JR0309419",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2115,7 +2201,7 @@
   "apply_url": "https://apply.workable.com/keywords-intl1/j/7117DE3ADC/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2132,7 +2218,7 @@
   "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215487-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2149,30 +2235,13 @@
   "apply_url": "https://wk.wd3.myworkdayjobs.com/en-US/external/job/IND---Chennai-Neville-Towers/Product-Software-Engineer_R0059370",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
   "city": "Chennai",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "37cfef2889d6b62880905024b6034742835a7e24e3243ca5d177ca74eaa93a9d",
-  "company": "Version 1",
-  "title": "ERP Cloud Functional Finance Consultant L1",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.smartrecruiters.com/Version1/744000154070544-erp-cloud-functional-finance-consultant-l1?oga=true",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "DevOps / Cloud",
-  "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -2183,7 +2252,7 @@
   "apply_url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/DT-Intern_R5027950-2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2200,7 +2269,7 @@
   "apply_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "surya"
   ],
@@ -2217,7 +2286,7 @@
   "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/Junior-Machine-Learning-Engineer_R-52640",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2234,7 +2303,7 @@
   "apply_url": "https://tiaa.wd1.myworkdayjobs.com/en-US/search/job/Mumbai-IND/Senior-Associate---Sr-Internal-Auditor_R260700175-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2251,7 +2320,7 @@
   "apply_url": "https://www.comeet.com/jobs/snapscale/C9.006/wordpress-web-developer/C2.F68",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2268,7 +2337,7 @@
   "apply_url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Full-Stack-Developer--UI-UX---Portfolio-Management-Group--Analyst_R264722",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2285,7 +2354,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Bangalore-Area/Technical-Data-Analyst---AMM_JR10454601",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2302,7 +2371,7 @@
   "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Bengaluru/Research-Scientist---Machine-Learning_R5049219-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2319,7 +2388,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10580010/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2336,7 +2405,7 @@
   "apply_url": "https://outpace.in/careers/co/mumbai/56.A66/data-analyst-japanese-job-code-63/all/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2353,7 +2422,7 @@
   "apply_url": "https://apply.workable.com/origin-10x/j/2869A894C1/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2370,7 +2439,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10595616/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2387,7 +2456,7 @@
   "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/College-Intern_1211843-2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2404,7 +2473,7 @@
   "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/IN---Chennai/Data-Analyst_45570",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2421,7 +2490,7 @@
   "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b35545bc-d131-467c-a046-2ba0f85874f6&jobId=628543",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2438,7 +2507,7 @@
   "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Junior-Full-Stack-Engineer-with-AI_261006954",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2455,7 +2524,7 @@
   "apply_url": "https://apply.workable.com/two95-international-inc-3/j/2FB1670E86/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2472,7 +2541,7 @@
   "apply_url": "https://aspentech.wd5.myworkdayjobs.com/en-US/aspentech/job/Pune-EMR/Software-Developer-I--Install-_R9576",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2489,7 +2558,7 @@
   "apply_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Bengaluru-India/SW-Development-Engineer-1---Android_JR117890",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2506,7 +2575,7 @@
   "apply_url": "https://jobs.lever.co/beghouconsulting/e8a22a2b-5a87-4519-b6db-f5d1ec1b60b4",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2523,7 +2592,7 @@
   "apply_url": "https://havas.wd3.myworkdayjobs.com/en-US/groupexternalcareersite/job/Mumbai/Associate-Data-Analyst---CSA_JR0100539",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2540,7 +2609,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103480",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2557,7 +2626,7 @@
   "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Information-Security-Training-Developer_R-10065731",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2574,7 +2643,7 @@
   "apply_url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000006489",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2591,7 +2660,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103863",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2608,7 +2677,7 @@
   "apply_url": "https://internationalcareers-bruker.icims.com/jobs/19841/graduate-apprenticeship-trainee---tech-support-%28non-it-software%29/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2625,7 +2694,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000003993-data-scientist-3-5-years-?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2642,7 +2711,7 @@
   "apply_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Bangalore-India/Quantitative-Engineer---Associate_R162452",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2652,23 +2721,6 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "5816f622be862cbc3a34ef5b92fffa3634aa2edcdfccb0d0dfcf88be8fcf3fb6",
-  "company": "Hewlett Packard Enterprise",
-  "title": "External Intern",
-  "location_raw": "Bengaluru, Karnātaka, India",
-  "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Other",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
   "id": "59b49fea6f60b9866fe80e8f3712b09a28c3b44d6fa1903d84e71d15bf6b1c92",
   "company": "Nasdaq",
   "title": "Data Science Intern",
@@ -2676,7 +2728,7 @@
   "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/job_postings/job/India---Bangalore---Karnataka/Data-Science-Intern_R0027031",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2693,7 +2745,7 @@
   "apply_url": "https://comscore.wd5.myworkdayjobs.com/en-US/external/job/IND---Pune-India/DevOps-Engineer_REQ1757-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2710,7 +2762,7 @@
   "apply_url": "https://international-medpace.icims.com/jobs/11932/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2727,7 +2779,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10551531/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2744,29 +2796,12 @@
   "apply_url": "https://www.amazon.jobs/jobs/10580008/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
-  "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "625d79d18adbb8087aadb3f09bae447120cc1670db069d5aa72fd04babcf1a3d",
-  "company": "Health Catalyst",
-  "title": "Java Software Development Engineer",
-  "location_raw": "Hyderabad, India",
-  "apply_url": "https://healthcatalyst.wd5.myworkdayjobs.com/en-US/healthcatalystcareers/job/IN-Hyderabad/Java-Software-Development-Engineer_REQ-3353",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Backend",
   "city": "Hyderabad",
   "experience_type": "Fresher / New Grad"
  },
@@ -2778,7 +2813,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2795,7 +2830,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=PSE02",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2812,7 +2847,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship--FSTD_JR10448021",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2829,7 +2864,7 @@
   "apply_url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R267160",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2846,7 +2881,7 @@
   "apply_url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2863,7 +2898,7 @@
   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2880,7 +2915,7 @@
   "apply_url": "https://boards.greenhouse.io/headoutcareers/jobs/4707747006?gh_jid=4707747006",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2897,7 +2932,7 @@
   "apply_url": "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Data-Engineer-II_R-108264",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2914,7 +2949,7 @@
   "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8747986002",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2931,7 +2966,7 @@
   "apply_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Bengaluru-India/SW-Development-Engineer-2---Android_JR117892",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -2948,29 +2983,12 @@
   "apply_url": "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Data-Engineer-II_R-108265",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Data Science & Analytics",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "7b55d033ae7cdb5a41db268c7c99c66b6293002b6fd4a059e9889b7b9e2d79ac",
-  "company": "Bosch",
-  "title": "Embedded SW engineer - EPT2",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161785289-embedded-sw-engineer-ept2?oga=true",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Hardware / Embedded",
   "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
@@ -2982,7 +3000,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=PDE01",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -2999,7 +3017,7 @@
   "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/medline/job/Pune/Sr-Assoc-Developer-IT_R2615946",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3016,7 +3034,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3033,7 +3051,7 @@
   "apply_url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Bengaluru-India/Associate--AI-Data-Scientist--Private-Markets_R264031",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3050,7 +3068,7 @@
   "apply_url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/reliaquest_careers/job/Pune-India-Office/Associate-Software-Development-Engineer-in-Test_R15081-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3067,7 +3085,7 @@
   "apply_url": "https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074925",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3084,7 +3102,7 @@
   "apply_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/India---Hyderabad/Associate-Data-Scientist_R-256929",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3101,7 +3119,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103862-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3118,7 +3136,7 @@
   "apply_url": "https://rackspace.wd1.myworkdayjobs.com/en-US/external/job/IND-Work-from-Home-Remote/Cloud-Engineer-I---Azure-----IN_R-24008",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3135,7 +3153,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3152,7 +3170,7 @@
   "apply_url": "https://sunking.pinpointhq.com/en/postings/9864ad7b-8726-43d6-88d6-55e00bc8cd62",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3169,7 +3187,7 @@
   "apply_url": "https://qualys.wd5.myworkdayjobs.com/en-US/careers/job/Pune/Software-Engineer_R0005062",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3186,7 +3204,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=DEV-BE04",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3203,7 +3221,7 @@
   "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/8073655",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3220,7 +3238,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/Wabtec/3743990015888876-embedded-software-engineer-specialist?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3237,7 +3255,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10551515/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3254,7 +3272,7 @@
   "apply_url": "https://apply.workable.com/lrn-corporation/j/BE0CFEEB1A/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3271,7 +3289,7 @@
   "apply_url": "https://jobs.ashbyhq.com/Commure/b7f99d0b-e511-41ba-a585-ce636f454e99",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3288,7 +3306,7 @@
   "apply_url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Associate-Data-Analyst_2639838",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3305,7 +3323,7 @@
   "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Research-PhD_1191423",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3322,7 +3340,7 @@
   "apply_url": "https://careers-hyland.icims.com/jobs/14637/associate-cloud-specialist/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3339,7 +3357,7 @@
   "apply_url": "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Bangalore-India/Associate-QA-Engineer--Software_R322807",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3356,7 +3374,7 @@
   "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Chennai/Embedded-SW-Quality-Test-Engineer_R5052000-2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3373,7 +3391,7 @@
   "apply_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0138600",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3383,23 +3401,6 @@
   "experience_type": "Fresher / New Grad"
  },
  {
-  "id": "9e99d04ae53345fd1ad4cde8035b7d5ea7488169cca8678f0201d0124ac521f8",
-  "company": "Hewlett Packard Enterprise",
-  "title": "Intern",
-  "location_raw": "Bengaluru, Karnātaka, India",
-  "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Intern_1211844",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Other",
-  "city": "Multiple / Pan-India",
-  "experience_type": "Internship"
- },
- {
   "id": "9f3089827c32a2bff4904b33fb4a6d3d0d885a2680b2d11dbee7222b3ae68757",
   "company": "Prodigal",
   "title": "Forward Deployed Engineer - AI Agents",
@@ -3407,7 +3408,7 @@
   "apply_url": "https://job-boards.greenhouse.io/prodigal/jobs/5261059007",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3424,7 +3425,7 @@
   "apply_url": "https://jobs.eu.lever.co/everseen/3f359b17-799c-4670-8d80-12a7afb56164",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3441,7 +3442,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/Version1/744000154428237-oracle-cloud-support-consultant?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3458,7 +3459,7 @@
   "apply_url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3475,7 +3476,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/QADInc/744000160141899-software-full-stack-engineer-extension-platform-?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3492,7 +3493,7 @@
   "apply_url": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3509,7 +3510,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3526,7 +3527,7 @@
   "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Data-Analyst-with-SQL-Python-Data-visualization_261001786",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3543,7 +3544,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Bengaluru-India/Cloud-Engineer-II_JR103566",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3560,7 +3561,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155409219-software-engineer?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3577,7 +3578,7 @@
   "apply_url": "https://outpace.in/careers/co/mumbai/46.A6D/data-analyst-arabic-job-code-72/all/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3594,7 +3595,7 @@
   "apply_url": "https://jobs.apple.com/en-us/details/200694892-1052",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3611,7 +3612,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3628,7 +3629,7 @@
   "apply_url": "https://apply.workable.com/bestex-research/j/A67145866A/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3645,7 +3646,7 @@
   "apply_url": "https://jobs.lever.co/cin7/c896656f-9a8b-4263-add3-553226c73df4",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3662,7 +3663,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3679,7 +3680,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10596351/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3696,7 +3697,7 @@
   "apply_url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000005491",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3713,7 +3714,7 @@
   "apply_url": "https://globalcareers-n-able.icims.com/jobs/21111/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3730,7 +3731,7 @@
   "apply_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Embedded-Software-Intern_R0347902",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3747,7 +3748,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3764,7 +3765,7 @@
   "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Frontend-and-Backend-Disputes-Analyst_261008772",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3781,7 +3782,7 @@
   "apply_url": "https://jobs.ashbyhq.com/span/98107b13-239e-4c8e-9597-350ab676239e",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3798,7 +3799,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=QE05",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3815,7 +3816,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10536801/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3832,13 +3833,30 @@
   "apply_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bengaluru/Research-Scientist---Machine-Learning_R5049219-2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "AI / ML",
   "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
+  "id": "b54c0bce06d5717deb4bb8bd7055c9bd5b21fb75765c0d9bed95a18fb8f6fee0",
+  "company": "Axway",
+  "title": "Software Security Engineer",
+  "location_raw": "Noida, India",
+  "apply_url": "https://careers-axway.icims.com/jobs/8877/software-security-engineer-ii/job",
+  "posted_at": null,
+  "first_seen": "2026-11-18T11:13:29.236566Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "speedyapply"
+  ],
+  "closed_at": null,
+  "role_category": "DevOps / Cloud",
+  "city": "Delhi NCR",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -3849,30 +3867,13 @@
   "apply_url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Associate-Engineer---Edge-AI_J000706103",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "AI / ML",
   "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "b792abfb5ea831be9962a9fa3e54f543074448f72f0e77498d5ed6dce044e513",
-  "company": "PhonePe",
-  "title": "Data Scientist - ML - 3 to 5 years",
-  "location_raw": "Pune, India",
-  "apply_url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000006105-data-scientist-ml-3-to-5-years-?oga=true",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Pune",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -3883,7 +3884,7 @@
   "apply_url": "https://ohmium.wd12.myworkdayjobs.com/en-US/ohmium_careers/job/Bengaluru-India/Associate--Data-Scientist_R-101125-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3900,7 +3901,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -3917,7 +3918,7 @@
   "apply_url": "https://jobs.smartrecruiters.com/OteemoInc/744000160568304-associate-support-engineer-ai-platform?oga=true",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3934,7 +3935,7 @@
   "apply_url": "https://careers-sbs.icims.com/jobs/8877/software-security-engineer-ii/job",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3951,7 +3952,7 @@
   "apply_url": "https://revvity.wd103.myworkdayjobs.com/en-US/external/job/Mumbai/Intern---Software-Developer_JR-045916",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3968,7 +3969,7 @@
   "apply_url": "https://www.upwind.io/careers/co/india/A9.F58/junior-cloud-security-validation-engineer/all",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -3985,7 +3986,7 @@
   "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Bangalore-India/Associate-Systems-Developers_R-01369463",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4002,7 +4003,7 @@
   "apply_url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4019,7 +4020,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103671",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4036,7 +4037,7 @@
   "apply_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/India---Hyderabad/Associate-Data-Scientist---Investment-Analytics_R-228276",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4053,7 +4054,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship-FSTD_JR10448073",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4070,7 +4071,7 @@
   "apply_url": "https://joinus.juspay.in/?jobId=DEV-BE02",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4087,7 +4088,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Artificial-Intelligence-For-Systems-Engineering-Intern_JR10449573",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4104,7 +4105,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4121,7 +4122,7 @@
   "apply_url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Mainframe-Developer--Banking-Domain-_JR0308605",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4138,7 +4139,7 @@
   "apply_url": "https://www.google.com/about/careers/applications/jobs/results/127602843300307654",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4155,7 +4156,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4172,7 +4173,7 @@
   "apply_url": "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4189,7 +4190,7 @@
   "apply_url": "https://jiostar.wd102.myworkdayjobs.com/en-US/jiostar/job/Bengaluru--We-Work/Software-Development-Engineer-II_JR12226",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4206,7 +4207,7 @@
   "apply_url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Pune-India/Associate-Software-Analyst_JR113044-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4223,7 +4224,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103606",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4240,7 +4241,7 @@
   "apply_url": "https://outpace.in/careers/co/mumbai/4C.D69/data-analyst-spanish-job-code-147/all/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4257,7 +4258,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10597397/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4274,7 +4275,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103704",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4291,7 +4292,7 @@
   "apply_url": "https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4308,7 +4309,7 @@
   "apply_url": "https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4318,23 +4319,6 @@
   "experience_type": "Internship"
  },
  {
-  "id": "e3ab30b3260aee9fd27bfbbc465328fc1a55ac5bdd63b87df13b4224faa56e60",
-  "company": "PwC",
-  "title": "AES Oracle FDI Developer - Associate",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore/AES-Oracle-FDI-Developer---Associate_772556WD",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
-  "experience_type": "Fresher / New Grad"
- },
- {
   "id": "e67a92f0cfc39396d32f22c01d49f2a0f0d656b87c43288aca851dc2f8a5e32c",
   "company": "Thales",
   "title": "Software Intern",
@@ -4342,7 +4326,7 @@
   "apply_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Software-Intern_R0347867",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4359,7 +4343,7 @@
   "apply_url": "https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4376,7 +4360,7 @@
   "apply_url": "https://apply.workable.com/digitals/j/4A9A4E7C8A/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4393,7 +4377,7 @@
   "apply_url": "https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/Chennai-India/Associate-Engineer---AI-services_R-151207",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4410,7 +4394,7 @@
   "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Insurance-Client-Services_332883-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4427,7 +4411,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10602226/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4444,7 +4428,7 @@
   "apply_url": "https://wonderbotz.applytojob.com/apply/RbPIL43iH6/Junior-AI-Engineer",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4461,7 +4445,7 @@
   "apply_url": "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4478,7 +4462,7 @@
   "apply_url": "https://jobs.apple.com/en-us/details/200682312-0321",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4495,30 +4479,13 @@
   "apply_url": "https://jobs.ashbyhq.com/secfix/583140f4-b26c-47b4-a9be-c7a88dc3c0f5",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Backend",
   "city": "Remote (India)",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "ec0ca22d5001c0e1633e4255817d3db0abb38e6345dd0e9da7adaeda560cb4aa",
-  "company": "PwC",
-  "title": "AI QE Engineer - Associate",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore/AI-QE-Engineer---Associate_757955WD-1",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "AI / ML",
-  "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -4529,7 +4496,7 @@
   "apply_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4546,7 +4513,7 @@
   "apply_url": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4563,30 +4530,13 @@
   "apply_url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/reliaquest_careers/job/Pune-India-Office/Associate-Software-Engineer_R15032",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
   "city": "Pune",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "ed92570292eb5a2d2d6d49561b2824f96ad661b30ee1274384ca499ab0d64f44",
-  "company": "Bosch",
-  "title": "HMI Developer - EPS1",
-  "location_raw": "Bengaluru, India",
-  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161220364-hmi-developer-eps1?oga=true",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Software Engineering",
-  "city": "Bengaluru",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -4597,7 +4547,7 @@
   "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Bangalore-India/Associate-Systems-Developer_R-01369454",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4614,7 +4564,7 @@
   "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103778",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4631,30 +4581,13 @@
   "apply_url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer_2025113-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
   "city": "Hyderabad",
-  "experience_type": "Fresher / New Grad"
- },
- {
-  "id": "ede79333289fcee6e4be771ae461b079d43dba4266eaa7d7a86bde2399e6c27b",
-  "company": "Outpace Consulting",
-  "title": "Data Analyst - Portuguese - Job Code # 74",
-  "location_raw": "Mumbai, India",
-  "apply_url": "https://outpace.in/careers/co/mumbai/54.A65/data-analyst-portuguese-job-code-74/all/",
-  "posted_at": null,
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "speedyapply"
-  ],
-  "closed_at": null,
-  "role_category": "Data Science & Analytics",
-  "city": "Mumbai",
   "experience_type": "Fresher / New Grad"
  },
  {
@@ -4665,7 +4598,7 @@
   "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4682,7 +4615,7 @@
   "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Data-Analyst_261001964-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4699,7 +4632,7 @@
   "apply_url": "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4716,7 +4649,7 @@
   "apply_url": "https://jobs.lever.co/beghouconsulting/c00e8839-ebc9-4a30-9473-b55ecec448db",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4733,7 +4666,7 @@
   "apply_url": "https://apply.workable.com/digitals/j/F81B5F03A4/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4750,7 +4683,7 @@
   "apply_url": "https://job-boards.greenhouse.io/connectwise/jobs/4731656005",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4767,7 +4700,7 @@
   "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4784,7 +4717,7 @@
   "apply_url": "https://jobs.ashbyhq.com/bureau/2b7f3dda-fba7-499c-934d-b0fdfb21fe08",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4801,7 +4734,7 @@
   "apply_url": "https://aspentech.wd5.myworkdayjobs.com/en-US/aspentech/job/Pune-EMR/Software-Developer-I--Install-_R9577",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4818,7 +4751,7 @@
   "apply_url": "https://generac.wd5.myworkdayjobs.com/en-US/externalcareers/job/Pune-India/Software-QA-Engineer-I_JR16397",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4835,7 +4768,7 @@
   "apply_url": "https://apply.workable.com/botsync-1/j/EB7973F45C/",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4852,7 +4785,7 @@
   "apply_url": "https://tiaa.wd1.myworkdayjobs.com/en-US/search/job/Mumbai-India/Associate---Full-Stack-Developer_R260400175-1",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4869,7 +4802,7 @@
   "apply_url": "https://www.amazon.jobs/jobs/10602774/apply",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4886,7 +4819,7 @@
   "apply_url": "https://job-boards.greenhouse.io/startree/jobs/6147925004",
   "posted_at": null,
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "speedyapply"
   ],
@@ -4903,7 +4836,7 @@
   "apply_url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016522",
   "posted_at": "2026-11-18T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4920,7 +4853,7 @@
   "apply_url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016754",
   "posted_at": "2026-11-18T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4937,7 +4870,7 @@
   "apply_url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016519",
   "posted_at": "2026-11-18T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4954,7 +4887,7 @@
   "apply_url": "https://www.google.com/about/careers/applications/jobs/results/96299220855595718",
   "posted_at": "2026-11-16T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4971,7 +4904,7 @@
   "apply_url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016514",
   "posted_at": "2026-11-12T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -4988,7 +4921,7 @@
   "apply_url": "https://eaton.eightfold.ai/careers/job/687240121118",
   "posted_at": "2026-11-11T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5005,7 +4938,7 @@
   "apply_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/College-Intern---Technical_3169164-1",
   "posted_at": "2026-11-11T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5022,30 +4955,13 @@
   "apply_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613",
   "posted_at": "2026-11-06T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Software Engineering",
   "city": "Bengaluru",
-  "experience_type": "Internship"
- },
- {
-  "id": "dcd577040689bcfd43a831c68bf22bf6479753ecc32eb42afb1d63a98c26e048",
-  "company": "Eaton",
-  "title": "Intern - Quality",
-  "location_raw": "Pune, Maharashtra, IND, 411045",
-  "apply_url": "https://eaton.eightfold.ai/careers/job/687240066841",
-  "posted_at": "2026-11-05T00:00:00Z",
-  "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
-  "sources": [
-   "sarthzk"
-  ],
-  "closed_at": null,
-  "role_category": "Other",
-  "city": "Multiple / Pan-India",
   "experience_type": "Internship"
  },
  {
@@ -5056,7 +4972,7 @@
   "apply_url": "https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283",
   "posted_at": "2026-11-04T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5073,7 +4989,7 @@
   "apply_url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true",
   "posted_at": "2026-10-28T06:29:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "simplify",
    "surya"
@@ -5084,6 +5000,23 @@
   "experience_type": "Internship"
  },
  {
+  "id": "bb8d00fd04133228798cfa3fca6c63ec155cf9b8ae5ac0a889cc182cf418077a",
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location_raw": "Bangalore",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8130876",
+  "posted_at": "2026-10-28T00:00:00Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "iitian_vibes"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
+  "experience_type": "Fresher / New Grad"
+ },
+ {
   "id": "871645e0e346d51fa0e29985f4e293ece6fe1f3596059ddbf04f95ec96bf28ca",
   "company": "Microsoft",
   "title": "Applied Sciences INTERN",
@@ -5091,7 +5024,7 @@
   "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556917519",
   "posted_at": "2026-10-26T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5108,7 +5041,7 @@
   "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
   "posted_at": "2026-10-23T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5125,7 +5058,7 @@
   "apply_url": "https://eaton.eightfold.ai/careers/job/687239705382",
   "posted_at": "2026-10-22T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5142,7 +5075,7 @@
   "apply_url": "https://careers.adobe.com/us/en/job/R173016",
   "posted_at": "2026-10-19T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5159,7 +5092,7 @@
   "apply_url": "https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true",
   "posted_at": "2026-09-23T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "simplify",
    "surya"
@@ -5177,7 +5110,7 @@
   "apply_url": "https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true",
   "posted_at": "2026-09-21T14:19:49Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "simplify",
    "surya"
@@ -5195,7 +5128,7 @@
   "apply_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
   "posted_at": "2026-09-21T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk",
    "speedyapply"
@@ -5213,7 +5146,7 @@
   "apply_url": "https://careers.qualcomm.com/careers/job/446719784824",
   "posted_at": "2026-09-09T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5230,7 +5163,7 @@
   "apply_url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414",
   "posted_at": "2026-09-07T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk",
    "speedyapply"
@@ -5248,7 +5181,7 @@
   "apply_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434",
   "posted_at": "2026-09-07T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5265,7 +5198,7 @@
   "apply_url": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358",
   "posted_at": "2026-09-07T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5282,7 +5215,7 @@
   "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
   "posted_at": "2026-09-06T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk",
    "speedyapply"
@@ -5300,13 +5233,30 @@
   "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514",
   "posted_at": "2026-09-06T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Other",
   "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "5e898ddf267e3f1fc08ffa11367324dfff8a3a46a7104bced46421bc0839be03",
+  "company": "Rubrik",
+  "title": "Software Engineer - Winter Intern",
+  "location_raw": "Bangalore",
+  "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+  "posted_at": "2026-09-06T00:00:00Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Bengaluru",
   "experience_type": "Internship"
  },
  {
@@ -5317,7 +5267,7 @@
   "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556978896",
   "posted_at": "2026-08-25T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5334,7 +5284,7 @@
   "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
   "posted_at": "2026-07-10T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "iitian_vibes",
    "sarthzk"
@@ -5352,7 +5302,7 @@
   "apply_url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430",
   "posted_at": "2026-06-29T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5369,7 +5319,7 @@
   "apply_url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371",
   "posted_at": "2026-06-29T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
@@ -5386,13 +5336,30 @@
   "apply_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538",
   "posted_at": "2025-08-14T00:00:00Z",
   "first_seen": "2026-11-18T11:13:29.236566Z",
-  "last_seen": "2026-11-19T09:52:41.488438Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
   "sources": [
    "sarthzk"
   ],
   "closed_at": null,
   "role_category": "Other",
   "city": "Multiple / Pan-India",
+  "experience_type": "Internship"
+ },
+ {
+  "id": "c71f436ea1bb38ccff5968acc3e81a4cf4e1bc143375a16cd1d8669f8b5f0bf6",
+  "company": "Agoda",
+  "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
+  "location_raw": "Gurgaon",
+  "apply_url": "https://job-boards.greenhouse.io/agoda/jobs/6323041",
+  "posted_at": "2024-10-11T00:00:00Z",
+  "first_seen": "2026-11-20T09:39:49.105087Z",
+  "last_seen": "2026-11-20T09:39:49.105087Z",
+  "sources": [
+   "sarthzk"
+  ],
+  "closed_at": null,
+  "role_category": "Software Engineering",
+  "city": "Delhi NCR",
   "experience_type": "Internship"
  }
 ]
